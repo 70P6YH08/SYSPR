@@ -1,8 +1,9 @@
 %include "io.inc"
 section .data
-    symbol db "#"
     count dd 0
     count_j dd 1
+    message db "#", 0, '$'
+    enter_message db 0xA
 section .text
 global main
 main:
@@ -10,7 +11,6 @@ main:
     ;Task 1
     GET_DEC 4, [count]
     mov eax, 0
-    mov esi, [symbol]
     mov ebx, 0
     mov ecx, [count_j]
 for_start_i:
@@ -21,10 +21,11 @@ for_start_j:
     cmp ebx, ecx
     jnl for_i
     add ebx, 1
-    PRINT_DEC 4, esi
+    PRINT_STRING message
     jmp for_start_j
     
 for_i:
+    PRINT_CHAR enter_message
     mov ebx, 0
     add ecx, 1
     add eax, 1

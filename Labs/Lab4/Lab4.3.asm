@@ -1,6 +1,7 @@
 %include "io.inc"
 section .data
     n dd 0
+    enter_message db 0xA
 section .text
 global main
 main:
@@ -8,6 +9,7 @@ main:
     mov eax, 2
     ;Task 3
 do_while_start:
+    PRINT_CHAR enter_message
     PRINT_STRING "input number: "
     GET_DEC 4, [n]
     mov ebx, [n]
@@ -16,15 +18,18 @@ do_while_start:
     cmp ebx, eax
     jg less
     jb more
-    PRINT_STRING " You win"
+    PRINT_CHAR enter_message
+    PRINT_STRING "You win!"
     jmp do_while_end
     
 less:
-    PRINT_STRING " Input less!"
+    PRINT_CHAR enter_message
+    PRINT_STRING "Input less! "
     jmp do_while_start
     
 more:
-    PRINT_STRING " Input more!"
+    PRINT_CHAR enter_message
+    PRINT_STRING "Input more! "
     jmp do_while_start
     
 do_while_end:

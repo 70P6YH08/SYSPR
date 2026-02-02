@@ -1,6 +1,7 @@
 section .text
 global main
 main:
+    mov ebp, esp; for correct debugging
     sub rsp, 3
     push byte[rsp+ 2], 1 ;[rsp + 10]
     push byte[rsp+ 1], 2 ;[rsp + 9]

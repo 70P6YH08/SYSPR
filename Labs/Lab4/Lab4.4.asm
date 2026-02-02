@@ -1,35 +1,37 @@
 %include "io.inc"
 section .data
-    n dd 0
-    num dd 0
-
+    percent dd 0
+    deposit dd 0
 section .text
 global main
 
 main:
     mov ebp, esp; for correct debugging
-
-input_n:
-    PRINT_STRING " input count: "
-    GET_DEC 4, [n]
-    mov ecx, [n]
-    jl input_n
-    jecxz input_n
+    PRINT_STRING "Input deposit: "
+    GET_DEC 4, [deposit]
+    PRINT_DEC 4, [deposit]
+    mov ebx,[deposit]
     
+    NEWLINE
+    
+    PRINT_STRING "Input percent: "
+    GET_DEC 4, [percent]
+    PRINT_DEC 4, [percent]
+    mov edx,[percent]
+    mov ax, 0
+while:
     mov eax, 0
-    mov ebx, 0
-
-input_loop:
-    PRINT_STRING " input number: "
-    GET_DEC 4, [num]
-    mov edx, [num]
+    cmp ebx, 1000000
+    jge exit
+    add ax, 1
+    mov eax, ebx
+    imul eax, edx
+    mov ecx, 100
+    div ecx
+    add ebx, eax
+    jmp while
     
-    add eax, edx
-    
-    loop input_loop
-    
-    PRINT_STRING " Sum equals: "
-    PRINT_DEC 4, [eax]
-    
-    xor rdi, rdi
+    exit:
+    PRINT_DEC 4, ax
+    xor eax, eax
     ret
