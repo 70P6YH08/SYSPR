@@ -7,10 +7,11 @@ global main
 
 main:
     mov ebp, esp; for correct debugging
+    
     PRINT_STRING "Input deposit: "
     GET_DEC 4, [deposit]
     PRINT_DEC 4, [deposit]
-    mov ebx,[deposit]
+    mov eax, [deposit]
     
     NEWLINE
     
@@ -18,20 +19,40 @@ main:
     GET_DEC 4, [percent]
     PRINT_DEC 4, [percent]
     mov edx,[percent]
-    mov ax, 0
+    
+    mov edi, 0
+    
+    mov ecx, eax
+    
+    NEWLINE
+    
+    PRINT_STRING "Deposit: "
+    PRINT_DEC 4, eax
 while:
-    mov eax, 0
-    cmp ebx, 1000000
+    cmp ecx, 1000000
     jge exit
-    add ax, 1
-    mov eax, ebx
+    inc edi
+    mov eax, ecx ; в EAX записываем сумму вклада
     imul eax, edx
-    mov ecx, 100
-    div ecx
-    add ebx, eax
+    mov ebx, 100
+    xor edx, edx
+    div ebx ; проценты, начисленные на сумму в EAX за год
+    add ecx, eax ; добавляет к сумме за год процент
+    mov edx, [percent]
+    NEWLINE
+    PRINT_STRING "Percent of "
+    PRINT_DEC 4, edi
+    PRINT_STRING " year: "
+    PRINT_DEC 4, ecx
+    
     jmp while
     
     exit:
-    PRINT_DEC 4, ax
+    
+    NEWLINE
+    
+    PRINT_STRING "User will be a millionaire in "
+    PRINT_DEC 4, edi
+    PRINT_STRING " years"
     xor eax, eax
     ret
