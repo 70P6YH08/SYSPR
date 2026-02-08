@@ -6,20 +6,30 @@ section .data
 section .text
 global main
 main:
+    mov ebp, esp; for correct debugging
     ;Task 1
     mov ebp, esp; for correct debugging
-    PRINT_STRING "Input x:"
-    GET_DEC 4, x
-    PRINT_STRING "Input y:"
-    GET_DEC 4, y
+    GET_DEC 4, [x]
+    PRINT_STRING "Input x: "
+    PRINT_DEC 4, [x]
+    
+    
+    NEWLINE
+    
+    GET_DEC 4, [y]
+    PRINT_STRING "Input y: "
+    PRINT_DEC 4, [y]
+    
+    NEWLINE
     
     mov ax, [x]
     mov bx, [y]
     div bx
-    movsx eax,  ax
-    movsx ebx, dx
-    PRINT_STRING "quotient:"
-    PRINT_DEC 4, eax
-    PRINT_STRING "remains:"
-    PRINT_DEC 4,  ebx
+    PRINT_STRING "Quotient: "
+    PRINT_DEC 4, ax
+    
+    NEWLINE
+    
+    PRINT_STRING "Remains: "
+    PRINT_DEC 4,  dx
     ret
