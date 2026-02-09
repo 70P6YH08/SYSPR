@@ -18,5 +18,6 @@ main:
     mov ebx, 2
     xor edx, edx
     idiv ebx
+    xor edx, 1
     PRINT_DEC 4, edx
     ret

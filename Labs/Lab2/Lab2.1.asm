@@ -24,7 +24,8 @@ main:
     
     mov ax, [x]
     mov bx, [y]
-    div bx
+    xor dx,dx
+    idiv bx
     PRINT_STRING "Quotient: "
     PRINT_DEC 4, ax
     
