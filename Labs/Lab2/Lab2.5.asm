@@ -35,5 +35,5 @@ main:
     imul eax, ecx
     
     PRINT_STRING "Color as a number: "
-    PRINT_DEC 4, eax
+    PRINT_HEX 4, eax
     ret

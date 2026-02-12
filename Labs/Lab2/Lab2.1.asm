@@ -8,7 +8,6 @@ global main
 main:
     mov ebp, esp; for correct debugging
     ;Task 1
-    mov ebp, esp; for correct debugging
     GET_DEC 4, [x]
     PRINT_STRING "Input x: "
     PRINT_DEC 4, [x]
@@ -22,14 +21,15 @@ main:
     
     NEWLINE
     
-    mov ax, [x]
-    mov bx, [y]
-    div bx
+    mov eax, [x]
+    mov ebx, [y]
+    cdq
+    div ebx
     PRINT_STRING "Quotient: "
-    PRINT_DEC 4, ax
+    PRINT_DEC 4, eax
     
     NEWLINE
     
     PRINT_STRING "Remains: "
-    PRINT_DEC 4,  dx
+    PRINT_DEC 4, edx
     ret
