@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Disasm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB363E8B-1E53-4094-BD37-A8A077DF8D5B}|Disasm\\Disasm.vcxproj|C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Disasm\\Disasm\\Disasm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB363E8B-1E53-4094-BD37-A8A077DF8D5B}|Disasm\\Disasm.vcxproj|solutionrelative:Disasm\\Disasm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Disasm.cpp",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Disasm\\Disasm\\Disasm.cpp",
+              "RelativeDocumentMoniker": "Disasm\\Disasm.cpp",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Disasm\\Disasm\\Disasm.cpp",
+              "RelativeToolTip": "Disasm\\Disasm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-10T05:47:08.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
