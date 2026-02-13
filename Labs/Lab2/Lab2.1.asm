@@ -21,10 +21,17 @@ main:
     
     NEWLINE
     
+
     mov eax, [x]
     mov ebx, [y]
     cdq
     div ebx
+
+    mov ax, [x]
+    mov bx, [y]
+    xor dx,dx
+    idiv bx
+    
     PRINT_STRING "Quotient: "
     PRINT_DEC 4, eax
     

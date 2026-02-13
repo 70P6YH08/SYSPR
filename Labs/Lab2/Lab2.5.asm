@@ -7,8 +7,7 @@ section .text
 global main
 main:
     mov ebp, esp; for correct debugging
-    ;Task 4
-    mov ebp, esp; for correct debugging
+    ;Task 5
     GET_DEC 4, red
     PRINT_STRING "Red: "
     PRINT_DEC 4, red

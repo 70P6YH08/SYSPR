@@ -13,10 +13,7 @@ main:
     NEWLINE
     
     mov eax, [size]
-    mov ebx, 1024
-    xor edx, edx
-    idiv ebx
-    
+    shr eax, 10
     PRINT_STRING "Size in kilobites: "
     PRINT_DEC 4, eax
     ret
