@@ -1,0 +1,3 @@
+﻿  SecondProject.cpp
+C:\Users\221\Students\ispp31\SYSPR\Labs\Lab8\Lab8\SecondProject\SecondProject.cpp(13,16): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  SecondProject.vcxproj -> C:\Users\221\Students\ispp31\SYSPR\Labs\Lab8\Lab8\x64\Debug\SecondProject.exe
