@@ -6,7 +6,6 @@ section .data
 section .text
 global main
 main:
-    mov rbp, rsp; for correct debugging
     mov ebp, esp; for correct debugging
     cld
     lea edi, text
