@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.11.35312.102
+# Visual Studio Version 18
+VisualStudioVersion = 18.1.11312.151 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terminal", "Terminal\Terminal.csproj", "{2BEB84AE-DFB9-437C-ABA4-2C24C87953AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Terminal", "Terminal\Terminal.csproj", "{2BEB84AE-DFB9-437C-ABA4-2C24C87953AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cli", "Cli\Cli.csproj", "{3989622A-39EA-4FF6-94B0-7E933ABB7C08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tui", "Tui\Tui.csproj", "{BE6D9C17-89CF-4375-8D8C-9CB2277E84B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{2BEB84AE-DFB9-437C-ABA4-2C24C87953AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BEB84AE-DFB9-437C-ABA4-2C24C87953AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BEB84AE-DFB9-437C-ABA4-2C24C87953AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3989622A-39EA-4FF6-94B0-7E933ABB7C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3989622A-39EA-4FF6-94B0-7E933ABB7C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3989622A-39EA-4FF6-94B0-7E933ABB7C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3989622A-39EA-4FF6-94B0-7E933ABB7C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6D9C17-89CF-4375-8D8C-9CB2277E84B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6D9C17-89CF-4375-8D8C-9CB2277E84B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6D9C17-89CF-4375-8D8C-9CB2277E84B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6D9C17-89CF-4375-8D8C-9CB2277E84B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
