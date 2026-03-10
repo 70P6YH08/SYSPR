@@ -1,0 +1,15 @@
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Process\Process\bin\Debug\net10.0\Process.exe
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Process\Process\bin\Debug\net10.0\Process.deps.json
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Process\Process\bin\Debug\net10.0\Process.runtimeconfig.json
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Process\Process\bin\Debug\net10.0\Process.dll
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Process\Process\bin\Debug\net10.0\Process.pdb
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Process\Process\obj\Debug\net10.0\Process.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Process\Process\obj\Debug\net10.0\Process.AssemblyInfoInputs.cache
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Process\Process\obj\Debug\net10.0\Process.AssemblyInfo.cs
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Process\Process\obj\Debug\net10.0\Process.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Process\Process\obj\Debug\net10.0\Process.sourcelink.json
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Process\Process\obj\Debug\net10.0\Process.dll
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Process\Process\obj\Debug\net10.0\refint\Process.dll
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Process\Process\obj\Debug\net10.0\Process.pdb
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Process\Process\obj\Debug\net10.0\Process.genruntimeconfig.cache
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Process\Process\obj\Debug\net10.0\ref\Process.dll
