@@ -1,0 +1,15 @@
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Reestr\Reestr\bin\Debug\net10.0\Reestr.exe
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Reestr\Reestr\bin\Debug\net10.0\Reestr.deps.json
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Reestr\Reestr\bin\Debug\net10.0\Reestr.runtimeconfig.json
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Reestr\Reestr\bin\Debug\net10.0\Reestr.dll
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Reestr\Reestr\bin\Debug\net10.0\Reestr.pdb
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Reestr\Reestr\obj\Debug\net10.0\Reestr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Reestr\Reestr\obj\Debug\net10.0\Reestr.AssemblyInfoInputs.cache
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Reestr\Reestr\obj\Debug\net10.0\Reestr.AssemblyInfo.cs
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Reestr\Reestr\obj\Debug\net10.0\Reestr.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Reestr\Reestr\obj\Debug\net10.0\Reestr.sourcelink.json
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Reestr\Reestr\obj\Debug\net10.0\Reestr.dll
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Reestr\Reestr\obj\Debug\net10.0\refint\Reestr.dll
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Reestr\Reestr\obj\Debug\net10.0\Reestr.pdb
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Reestr\Reestr\obj\Debug\net10.0\Reestr.genruntimeconfig.cache
+C:\Users\221\Students\ispp31\SYSPR\Lecions\Reestr\Reestr\obj\Debug\net10.0\ref\Reestr.dll
