@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleFileManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40c4455a347c608f4769b8dac504914063559620")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8972b7bc9143dce5e8f88a7c5fa13e4b8e6447fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleFileManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleFileManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

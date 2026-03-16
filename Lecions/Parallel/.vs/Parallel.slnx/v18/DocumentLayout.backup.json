@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Parallel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70700B4B-5D8C-449B-8FFF-0410FF5AF78B}|Parallel\\Parallel.csproj|c:\\users\\221\\students\\ispp31\\syspr\\lecions\\parallel\\parallel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70700B4B-5D8C-449B-8FFF-0410FF5AF78B}|Parallel\\Parallel.csproj|solutionrelative:parallel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Parallel\\Parallel\\Program.cs",
+              "RelativeDocumentMoniker": "Parallel\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Parallel\\Parallel\\Program.cs*",
+              "RelativeToolTip": "Parallel\\Program.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:53:44.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
