@@ -59,8 +59,7 @@
               "RelativeToolTip": "Terminal\\Program.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T11:35:26.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T11:35:26.714Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Cli\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T11:35:12.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T11:35:12.42Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "ConsoleFileManager\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T07:06:50.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T07:06:50.515Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "ConsoleFileManager\\FilesPanel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T07:05:35.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T07:05:35.841Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "ConsoleFileManager\\MainWindow.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T07:05:20.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T07:05:20.407Z"
             }
           ]
         }

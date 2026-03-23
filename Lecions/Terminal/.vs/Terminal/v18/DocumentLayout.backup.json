@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6575DC20-E66C-4558-ACBA-223E0939DFC9}|ConsoleFileManager\\ConsoleFileManager.csproj|c:\\users\\221\\students\\ispp31\\syspr\\lecions\\terminal\\consolefilemanager\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6575DC20-E66C-4558-ACBA-223E0939DFC9}|ConsoleFileManager\\ConsoleFileManager.csproj|solutionrelative:consolefilemanager\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6D9C17-89CF-4375-8D8C-9CB2277E84B8}|Tui\\Tui.csproj|c:\\users\\221\\students\\ispp31\\syspr\\lecions\\terminal\\tui\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6D9C17-89CF-4375-8D8C-9CB2277E84B8}|Tui\\Tui.csproj|solutionrelative:tui\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEB84AE-DFB9-437C-ABA4-2C24C87953AD}|Terminal\\Terminal.csproj|c:\\users\\221\\students\\ispp31\\syspr\\lecions\\terminal\\terminal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEB84AE-DFB9-437C-ABA4-2C24C87953AD}|Terminal\\Terminal.csproj|solutionrelative:terminal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6575DC20-E66C-4558-ACBA-223E0939DFC9}|ConsoleFileManager\\ConsoleFileManager.csproj|c:\\users\\221\\students\\ispp31\\syspr\\lecions\\terminal\\consolefilemanager\\filespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{6575DC20-E66C-4558-ACBA-223E0939DFC9}|ConsoleFileManager\\ConsoleFileManager.csproj|c:\\users\\221\\students\\ispp31\\syspr\\lecions\\terminal\\consolefilemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6575DC20-E66C-4558-ACBA-223E0939DFC9}|ConsoleFileManager\\ConsoleFileManager.csproj|solutionrelative:consolefilemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6575DC20-E66C-4558-ACBA-223E0939DFC9}|ConsoleFileManager\\ConsoleFileManager.csproj|c:\\users\\221\\students\\ispp31\\syspr\\lecions\\terminal\\consolefilemanager\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6575DC20-E66C-4558-ACBA-223E0939DFC9}|ConsoleFileManager\\ConsoleFileManager.csproj|solutionrelative:consolefilemanager\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3989622A-39EA-4FF6-94B0-7E933ABB7C08}|Cli\\Cli.csproj|c:\\users\\221\\students\\ispp31\\syspr\\lecions\\terminal\\cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3989622A-39EA-4FF6-94B0-7E933ABB7C08}|Cli\\Cli.csproj|solutionrelative:cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Tui\\MainWindow.cs",
+              "RelativeDocumentMoniker": "Tui\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Tui\\MainWindow.cs",
+              "RelativeToolTip": "Tui\\MainWindow.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:35:33.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Terminal\\Program.cs",
+              "RelativeDocumentMoniker": "Terminal\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Terminal\\Program.cs",
+              "RelativeToolTip": "Terminal\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:35:26.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Cli\\Program.cs",
+              "RelativeDocumentMoniker": "Cli\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Cli\\Program.cs",
+              "RelativeToolTip": "Cli\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:35:12.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\ConsoleFileManager\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleFileManager\\Program.cs",
@@ -34,29 +85,31 @@
               "RelativeToolTip": "ConsoleFileManager\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T07:06:50.515Z"
+              "WhenOpened": "2026-03-07T07:06:50.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FilesPanel.cs",
               "DocumentMoniker": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\ConsoleFileManager\\FilesPanel.cs",
               "RelativeDocumentMoniker": "ConsoleFileManager\\FilesPanel.cs",
               "ToolTip": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\ConsoleFileManager\\FilesPanel.cs",
               "RelativeToolTip": "ConsoleFileManager\\FilesPanel.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAcwEEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T07:05:35.841Z"
+              "WhenOpened": "2026-03-07T07:05:35.841Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainWindow.cs",
               "DocumentMoniker": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\ConsoleFileManager\\MainWindow.cs",
               "RelativeDocumentMoniker": "ConsoleFileManager\\MainWindow.cs",
               "ToolTip": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\ConsoleFileManager\\MainWindow.cs",
               "RelativeToolTip": "ConsoleFileManager\\MainWindow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-07T07:05:20.407Z",
               "EditorCaption": ""
