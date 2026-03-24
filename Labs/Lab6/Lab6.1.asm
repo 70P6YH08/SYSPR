@@ -1,7 +1,7 @@
 global main
 
 section .data
-string db "Hello World",0
+string db "Hello World", 0
 len equ $-string
 elemSize equ 1
 sizeString equ len / elemSize

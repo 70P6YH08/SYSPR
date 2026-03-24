@@ -5,6 +5,6 @@ main:
     call pow2
     ret
     pow2:
-    mov ecx, 4
-    mov eax, 1
-    shl eax, cl
+    mov rax, 1
+    shl rax, 2
+    xor eax, eax
