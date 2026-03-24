@@ -47,7 +47,7 @@ namespace ConsoleFileManager
                     File.Copy(file,
                         Path.Combine(panels.target.CurrectPath,
                         Path.GetFileName(file)));
-                    panels.target.Refresh();
+                    //panels.target.Refresh();
                     break;
             }
         }

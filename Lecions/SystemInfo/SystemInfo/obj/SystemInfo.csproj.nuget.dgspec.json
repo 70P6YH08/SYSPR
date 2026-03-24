@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\SystemInfo\\SystemInfo\\SystemInfo.csproj": {}
+    "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\SystemInfo\\SystemInfo\\SystemInfo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\SystemInfo\\SystemInfo\\SystemInfo.csproj": {
+    "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\SystemInfo\\SystemInfo\\SystemInfo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\SystemInfo\\SystemInfo\\SystemInfo.csproj",
+        "projectUniqueName": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\SystemInfo\\SystemInfo\\SystemInfo.csproj",
         "projectName": "SystemInfo",
-        "projectPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\SystemInfo\\SystemInfo\\SystemInfo.csproj",
+        "projectPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\SystemInfo\\SystemInfo\\SystemInfo.csproj",
         "packagesPath": "C:\\NugetCache\\Packages",
-        "outputPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\SystemInfo\\SystemInfo\\obj\\",
+        "outputPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\SystemInfo\\SystemInfo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

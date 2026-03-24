@@ -117,11 +117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Cli\\Cli.csproj",
+      "projectUniqueName": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Cli\\Cli.csproj",
       "projectName": "Cli",
-      "projectPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Cli\\Cli.csproj",
+      "projectPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Cli\\Cli.csproj",
       "packagesPath": "C:\\NugetCache\\Packages",
-      "outputPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Cli\\obj\\",
+      "outputPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Cli\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

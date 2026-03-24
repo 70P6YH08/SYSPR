@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JW12F9bfmts=",
+  "dgSpecHash": "cK+I1rBBISs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Tui\\Tui.csproj",
+  "projectFilePath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Tui\\Tui.csproj",
   "expectedPackageFiles": [
     "C:\\NugetCache\\Packages\\colorhelper\\1.8.1\\colorhelper.1.8.1.nupkg.sha512",
     "C:\\NugetCache\\Packages\\jetbrains.annotations\\2025.2.2\\jetbrains.annotations.2025.2.2.nupkg.sha512",

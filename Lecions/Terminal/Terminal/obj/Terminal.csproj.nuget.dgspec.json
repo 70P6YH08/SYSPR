@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Terminal\\Terminal.csproj": {}
+    "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Terminal\\Terminal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Terminal\\Terminal.csproj": {
+    "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Terminal\\Terminal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Terminal\\Terminal.csproj",
+        "projectUniqueName": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Terminal\\Terminal.csproj",
         "projectName": "Terminal",
-        "projectPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Terminal\\Terminal.csproj",
+        "projectPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Terminal\\Terminal.csproj",
         "packagesPath": "C:\\NugetCache\\Packages",
-        "outputPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Terminal\\obj\\",
+        "outputPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Terminal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

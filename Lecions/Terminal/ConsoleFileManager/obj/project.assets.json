@@ -467,11 +467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\ConsoleFileManager\\ConsoleFileManager.csproj",
+      "projectUniqueName": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\ConsoleFileManager\\ConsoleFileManager.csproj",
       "projectName": "ConsoleFileManager",
-      "projectPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\ConsoleFileManager\\ConsoleFileManager.csproj",
+      "projectPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\ConsoleFileManager\\ConsoleFileManager.csproj",
       "packagesPath": "C:\\NugetCache\\Packages",
-      "outputPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\ConsoleFileManager\\obj\\",
+      "outputPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\ConsoleFileManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

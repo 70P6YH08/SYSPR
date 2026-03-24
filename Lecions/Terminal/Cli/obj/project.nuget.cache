@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lTfg48o+p90=",
+  "dgSpecHash": "cjyctiPn7Fg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Cli\\Cli.csproj",
+  "projectFilePath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Cli\\Cli.csproj",
   "expectedPackageFiles": [
     "C:\\NugetCache\\Packages\\system.commandline\\2.0.3\\system.commandline.2.0.3.nupkg.sha512"
   ],

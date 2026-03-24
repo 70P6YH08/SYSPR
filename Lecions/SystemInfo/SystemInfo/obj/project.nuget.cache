@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9YWkM4gIods=",
+  "dgSpecHash": "5De8bX+Q7yU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\SystemInfo\\SystemInfo\\SystemInfo.csproj",
+  "projectFilePath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\SystemInfo\\SystemInfo\\SystemInfo.csproj",
   "expectedPackageFiles": [
     "C:\\NugetCache\\Packages\\system.codedom\\10.0.5\\system.codedom.10.0.5.nupkg.sha512",
     "C:\\NugetCache\\Packages\\system.configuration.configurationmanager\\10.0.5\\system.configuration.configurationmanager.10.0.5.nupkg.sha512",

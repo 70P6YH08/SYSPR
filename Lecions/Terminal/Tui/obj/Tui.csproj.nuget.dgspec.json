@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Tui\\Tui.csproj": {}
+    "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Tui\\Tui.csproj": {}
   },
   "projects": {
-    "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Tui\\Tui.csproj": {
+    "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Tui\\Tui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Tui\\Tui.csproj",
+        "projectUniqueName": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Tui\\Tui.csproj",
         "projectName": "Tui",
-        "projectPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Tui\\Tui.csproj",
+        "projectPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Tui\\Tui.csproj",
         "packagesPath": "C:\\NugetCache\\Packages",
-        "outputPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Tui\\obj\\",
+        "outputPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Tui\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
