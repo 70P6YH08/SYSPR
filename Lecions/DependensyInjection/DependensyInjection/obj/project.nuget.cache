@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O9VSZpMiZn8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\DependensyInjection\\DependensyInjection\\DependensyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\NugetCache\\Packages\\microsoft.extensions.dependencyinjection\\10.0.5\\microsoft.extensions.dependencyinjection.10.0.5.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

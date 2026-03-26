@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DependensyInjection/DependensyInjection.csproj" />
+  <Project Path="WpfDI/WpfDI.csproj" />
+</Solution>
