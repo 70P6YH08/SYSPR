@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\",
+  "WorkspaceRootPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87BB053A-2D24-44F6-B8AA-F6719D9C78D8}|Hash\\Hash.csproj|c:\\users\\221\\students\\ispp31\\syspr\\lecions\\hash\\hash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BB053A-2D24-44F6-B8AA-F6719D9C78D8}|Hash\\Hash.csproj|solutionrelative:hash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8F45C68-E296-A9E4-6804-935D1AE9D04B}|Hash\\Hash.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\lecions\\hash\\hash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F45C68-E296-A9E4-6804-935D1AE9D04B}|Hash\\Hash.csproj|solutionrelative:hash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\Hash\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\Hash\\Program.cs",
               "RelativeDocumentMoniker": "Hash\\Program.cs",
-              "ToolTip": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\Hash\\Program.cs",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\Hash\\Program.cs",
               "RelativeToolTip": "Hash\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAgwD4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T10:48:17.683Z",
               "EditorCaption": ""

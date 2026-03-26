@@ -3,20 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4C109AE-990E-492E-9910-7ADCC12CEB3D}|LabWork17\\LabWork17.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork17\\labwork17\\labwork17\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E4C109AE-990E-492E-9910-7ADCC12CEB3D}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork17\\labwork17\\labwork17\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C109AE-990E-492E-9910-7ADCC12CEB3D}|LabWork17\\LabWork17.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork17\\labwork17\\labwork17\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C109AE-990E-492E-9910-7ADCC12CEB3D}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork17\\labwork17\\labwork17\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C109AE-990E-492E-9910-7ADCC12CEB3D}|LabWork17\\LabWork17.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork17\\labwork17\\labwork17\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C109AE-990E-492E-9910-7ADCC12CEB3D}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\221\\AppData\\Local\\Temp\\.vsdbgsrc\\85a376b441623a17a741cb927a882f420ed4fc45586898069e91ceb421dfb246\\ItemCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C109AE-990E-492E-9910-7ADCC12CEB3D}|LabWork17\\LabWork17.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork17\\labwork17\\labwork17\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C109AE-990E-492E-9910-7ADCC12CEB3D}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork17\\labwork17\\labwork17\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork17\\labwork17\\labwork17\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,31 +29,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "LabWork17\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\MainViewModel.cs",
-              "RelativeToolTip": "LabWork17\\MainViewModel.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvyIAAABfAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ItemCollection.cs",
+              "DocumentMoniker": "C:\\Users\\221\\AppData\\Local\\Temp\\.vsdbgsrc\\85a376b441623a17a741cb927a882f420ed4fc45586898069e91ceb421dfb246\\ItemCollection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\221\\AppData\\Local\\Temp\\.vsdbgsrc\\85a376b441623a17a741cb927a882f420ed4fc45586898069e91ceb421dfb246\\ItemCollection.cs",
+              "ToolTip": "C:\\Users\\221\\AppData\\Local\\Temp\\.vsdbgsrc\\85a376b441623a17a741cb927a882f420ed4fc45586898069e91ceb421dfb246\\ItemCollection.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\221\\AppData\\Local\\Temp\\.vsdbgsrc\\85a376b441623a17a741cb927a882f420ed4fc45586898069e91ceb421dfb246\\ItemCollection.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAIMGAAAAAAAAAAAswJoGAAADAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T07:18:30.562Z",
+              "WhenOpened": "2026-03-26T07:39:58.489Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork17\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork17\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T07:14:26.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "LabWork17\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\MainWindow.xaml*",
-              "RelativeToolTip": "LabWork17\\MainWindow.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-24T07:14:26.181Z",
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "LabWork17\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\MainViewModel.cs",
+              "RelativeToolTip": "LabWork17\\MainViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:18:30.562Z",
               "EditorCaption": ""
             },
             {
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "LabWork17\\MainWindow.xaml.cs",

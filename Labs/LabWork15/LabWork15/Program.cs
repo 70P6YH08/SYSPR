@@ -8,14 +8,38 @@ class Programm
     static byte[] data2 = new byte[90000];
     static byte[] data3 = new byte[100000];
 
-    byte[] packet =
-{
-0x01, 0x00, // ushort ID = 1
-0x10, 0x27, 0x00, 0x00, // int timestamp = 10000
-0x00, 0x00, 0x48, 0x42, // float temperature = 50.0
-0x01, // byte status
-0x00, 0x00, 0x00, 0x00 // int checksum
-};
+    static byte[] packet =
+    {
+        0x01, 0x00, // ushort ID = 1
+        0x10, 0x27, 0x00, 0x00, // int timestamp = 10000
+        0x00, 0x00, 0x48, 0x42, // float temperature = 50.0
+        0x01, // byte status
+        0x00, 0x00, 0x00, 0x00 // int checksum
+    };
+
+    public unsafe struct Packet
+    {
+        public ushort Id;
+        public int Timestamp;
+        public float Temperature;
+        public byte Status;
+        public int Checksum;
+
+        public static Packet FromBytes(byte[] packet)
+        {
+            fixed (byte* ptr = packet)
+            {
+                return new Packet
+                {
+                    Id = *(ushort*)ptr,
+                    Timestamp = *(int*)(ptr + 2),
+                    Temperature = *(float*)(ptr + 6),
+                    Status = *(byte*)(ptr + 10),
+                    Checksum = *(int*)(ptr+11)
+                };
+            }
+        }
+    }
 
     static void Main()
     {
@@ -75,8 +99,11 @@ class Programm
         fileLogger1.LogWriter();
 
 
+        Packet result = Packet.FromBytes(packet);
+        Console.WriteLine($"{result.Id}, {result.Timestamp} , {result.Temperature}, {result.Status}, {result.Checksum}");
 
     }
+
 
     static void ModifyClass(PointClass pointClass)
     {

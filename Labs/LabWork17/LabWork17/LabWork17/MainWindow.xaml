@@ -6,51 +6,58 @@
         xmlns:local="clr-namespace:LabWork17"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <StackPanel>
+    <DockPanel>
         <Menu DockPanel.Dock="Top">
             <MenuItem Header="Файл"/>
             <MenuItem Header="Правка"/>
             <MenuItem Header="Вид"/>
             <MenuItem Header="Справка"/>
         </Menu>
-        <StackPanel Margin="5">
+
+        <StackPanel DockPanel.Dock="Top" Margin="5">
             <TextBlock Text="Имя каталога" Margin="2"/>
             <TextBox Text="{Binding SearchString, UpdateSourceTrigger=PropertyChanged}" Margin="2"/>
             <Button Content="Вывести все вложенные файлы" Command="{Binding SearchCommand}" CommandParameter="{Binding SearchString}" Margin="2"/>
         </StackPanel>
-        <Grid>
+
+        <Grid Margin="5">
             <Grid.ColumnDefinitions>
-                <ColumnDefinition></ColumnDefinition>
-                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
             </Grid.ColumnDefinitions>
             <Grid.RowDefinitions>
-                <RowDefinition></RowDefinition>
-                <RowDefinition></RowDefinition>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
-            <TextBlock Text="Имя файла:" Grid.Column="0" Grid.Row="0" Margin="5"/>
-            <TextBlock Text="Дата изменения:" Grid.Column="1" Grid.Row="0" Margin="5"/>
-            <ScrollViewer Grid.Row="1" Margin="5" Height="300" Grid.Column="0">
+
+            <TextBlock Text="Иконка файла:" Grid.Column="0" Grid.Row="0" Margin="5"/>
+            <TextBlock Text="Имя файла:" Grid.Column="1" Grid.Row="0" Margin="5"/>
+            <TextBlock Text="Дата изменения:" Grid.Column="2" Grid.Row="0" Margin="5"/>
+            <TextBlock Text="Размер файла:" Grid.Column="3" Grid.Row="0" Margin="5"/>
+
+            <ScrollViewer Grid.Row="1" Grid.ColumnSpan="4" VerticalScrollBarVisibility="Auto">
                 <ItemsControl ItemsSource="{Binding Files}">
                     <ItemsControl.ItemTemplate>
                         <DataTemplate>
-                            <Grid>
-                                <TextBlock Text="{Binding Name}" Grid.Column="0" Grid.Row="1"/>
-                            </Grid>
-                        </DataTemplate>
-                    </ItemsControl.ItemTemplate>
-                </ItemsControl>
-            </ScrollViewer>
-            <ScrollViewer Grid.Row="1" Margin="5" Height="300" Grid.Column="1">
-                <ItemsControl ItemsSource="{Binding Files}">
-                    <ItemsControl.ItemTemplate>
-                        <DataTemplate>
-                            <Grid>
-                                <TextBlock Text="{Binding FullName}" Grid.Column="1" Grid.Row="1"/>
+                            <Grid Margin="5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+
+                                <TextBlock Text="{Binding Icon}" Grid.Column="0" Margin="5"/>
+                                <TextBlock Text="{Binding Name}" Grid.Column="1" Margin="5"/>
+                                <TextBlock Text="{Binding ModifiedDate}" Grid.Column="2" Margin="5"/>
+                                <TextBlock Text="{Binding Size}" Grid.Column="3" Margin="5"/>
                             </Grid>
                         </DataTemplate>
                     </ItemsControl.ItemTemplate>
                 </ItemsControl>
             </ScrollViewer>
         </Grid>
-    </StackPanel>
+    </DockPanel>
 </Window>

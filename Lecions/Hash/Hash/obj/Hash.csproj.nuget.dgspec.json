@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\Hash\\Hash.csproj": {}
+    "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\Hash\\Hash.csproj": {}
   },
   "projects": {
-    "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\Hash\\Hash.csproj": {
+    "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\Hash\\Hash.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\Hash\\Hash.csproj",
+        "projectUniqueName": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\Hash\\Hash.csproj",
         "projectName": "Hash",
-        "projectPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\Hash\\Hash.csproj",
+        "projectPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\Hash\\Hash.csproj",
         "packagesPath": "C:\\NugetCache\\Packages",
-        "outputPath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\Hash\\obj\\",
+        "outputPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Hash\\Hash\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
