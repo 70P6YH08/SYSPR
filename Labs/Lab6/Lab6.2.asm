@@ -1,32 +1,28 @@
-extern scanf, printf
-
-global main
+%include "io.inc"
 
 section .data
-msg db "Size equals %d"
-string db "Hello World",0
-len equ $-string
-elemSize equ 1
-sizeString equ len / elemSize
-lastPosition equ len - elemSize
- 
+apple db "Apple", 0
+
 section .bss
-    size resd 0
+copy resb 6 
+
 section .text
+global main
 main:
-    mov rbp, rsp; for correct debugging
-    mov rdi, msg
-    xor rax, rax
-    call printf
+    mov ebp, esp; for correct debugging
+    PRINT_STRING 'Input position: '
+    GET_DEC 4, eax
+    NEWLINE
+    PRINT_STRING 'Input Length: '
+    GET_DEC 4, ebx
+    mov esi, apple
+    add esi, eax
+    mov edi, copy
+    add edi, eax
+    mov ecx, ebx
     
-    mov rsi, string
-    add rsi, lastPosition
-    mov rdi, copy
-    add rdi, lastPosition
-    mov rcx, sizeString
- 
-    std
+    cld
     rep movsb
-    
-    mov rax, 60
-    syscall
+
+    xor eax, eax
+    ret

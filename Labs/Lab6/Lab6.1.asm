@@ -1,26 +1,27 @@
-global main
+%include "io.inc"
 
 section .data
-string db "Hello World", 0
-len equ $-string
-elemSize equ 1
-sizeString equ len / elemSize
-lastPosition equ len - elemSize
- 
+apple db "Hello World",0
+len equ $-nums
+elSize equ 1
+count equ len / elSize
+lastPosition equ len - elSize
+
 section .bss
-copy resb sizeString
- 
+copy resb 6 
+
 section .text
+global main
 main:
-    mov rbp, rsp; for correct debugging
-    mov rsi, string
-    add rsi, lastPosition
-    mov rdi, copy
-    add rdi, lastPosition
-    mov rcx, sizeString
- 
+    mov ebp, esp; for correct debugging
+    mov esi, apple
+    add esi, lastPosition
+    mov edi, copy
+    add edi, lastPosition
+    mov ecx, count
+    
     std
     rep movsb
-    
-    mov rax, 60
-    syscall
+
+    xor eax, eax
+    ret
