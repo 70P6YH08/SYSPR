@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "LabWork19": {
+      "commandName": "Project",
+      "commandLineArgs": "read -f C:\\Users\\-221 -s C:\\Users\\-221"
+    },
+    "Профиль 1": {
+      "commandName": "Project",
+      "commandLineArgs": "read -s"
+    }
+  }
+}

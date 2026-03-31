@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Timers.Wpf/Timers.Wpf.csproj" />
+  <Project Path="Timers/Timers.csproj" />
+</Solution>

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Timers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C95733C-B45D-48DC-B161-CBC33E010735}|Timers\\Timers.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\lecions\\timers\\timers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C95733C-B45D-48DC-B161-CBC33E010735}|Timers\\Timers.csproj|solutionrelative:timers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A5D915-9E77-4C76-A35E-6E968F6DC054}|Timers.Wpf\\Timers.Wpf.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\lecions\\timers\\timers.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1A5D915-9E77-4C76-A35E-6E968F6DC054}|Timers.Wpf\\Timers.Wpf.csproj|solutionrelative:timers.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A5D915-9E77-4C76-A35E-6E968F6DC054}|Timers.Wpf\\Timers.Wpf.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\lecions\\timers\\timers.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A5D915-9E77-4C76-A35E-6E968F6DC054}|Timers.Wpf\\Timers.Wpf.csproj|solutionrelative:timers.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Timers\\Timers.Wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Timers.Wpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Timers\\Timers.Wpf\\MainWindow.xaml",
+              "RelativeToolTip": "Timers.Wpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-31T06:15:24.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Timers\\Timers.Wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Timers.Wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Timers\\Timers.Wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Timers.Wpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T06:15:23.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Timers\\Timers\\Program.cs",
+              "RelativeDocumentMoniker": "Timers\\Program.cs",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Timers\\Timers\\Program.cs",
+              "RelativeToolTip": "Timers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T05:53:16.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

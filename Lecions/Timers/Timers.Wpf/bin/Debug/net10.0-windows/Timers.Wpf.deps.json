@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Timers.Wpf/1.0.0": {
+        "runtime": {
+          "Timers.Wpf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Timers.Wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
