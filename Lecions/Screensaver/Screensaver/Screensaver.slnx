@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Screensaver/Screensaver.csproj" />
+  <Project Path="ScreensaverWpf/ScreensaverWpf.csproj" Id="92ec8a0c-7bc8-4cbc-bfb3-44fae03d1b5f" />
+</Solution>

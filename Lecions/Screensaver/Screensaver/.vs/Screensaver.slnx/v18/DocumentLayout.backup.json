@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Screensaver\\Screensaver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92EC8A0C-7BC8-4CBC-BFB3-44FAE03D1B5F}|ScreensaverWpf\\ScreensaverWpf.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\lecions\\screensaver\\screensaver\\screensaverwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EC8A0C-7BC8-4CBC-BFB3-44FAE03D1B5F}|ScreensaverWpf\\ScreensaverWpf.csproj|solutionrelative:screensaverwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EC8A0C-7BC8-4CBC-BFB3-44FAE03D1B5F}|ScreensaverWpf\\ScreensaverWpf.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\lecions\\screensaver\\screensaver\\screensaverwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92EC8A0C-7BC8-4CBC-BFB3-44FAE03D1B5F}|ScreensaverWpf\\ScreensaverWpf.csproj|solutionrelative:screensaverwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Screensaver\\Screensaver\\ScreensaverWpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ScreensaverWpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Screensaver\\Screensaver\\ScreensaverWpf\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "ScreensaverWpf\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:47:48.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Screensaver\\Screensaver\\ScreensaverWpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ScreensaverWpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Screensaver\\Screensaver\\ScreensaverWpf\\MainWindow.xaml",
+              "RelativeToolTip": "ScreensaverWpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-02T06:45:30.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 794,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
