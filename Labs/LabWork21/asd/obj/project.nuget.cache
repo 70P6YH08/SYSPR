@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JkB1uVrZZgQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\LabWork21\\asd\\asd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.codedom\\10.0.7\\system.codedom.10.0.7.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.management\\10.0.7\\system.management.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
