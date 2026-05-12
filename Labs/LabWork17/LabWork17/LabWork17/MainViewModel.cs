@@ -21,7 +21,7 @@ namespace LabWork17
 
         public MainViewModel()
         {
-            SearchCommand = new RelayCommand<string>(Search, (x) => !String.IsNullOrWhiteSpace(x));
+            SearchCommand = new RelayCommand<string>(Search, x => !String.IsNullOrWhiteSpace(x));
         }
 
         public void Search(string searchString)
@@ -32,8 +32,7 @@ namespace LabWork17
             {
                 try
                 {
-                    Files = directoryInfo.GetFiles("", SearchOption.TopDirectoryOnly).ToList();
-
+                    Files = directoryInfo.GetFiles().ToList();
                 }
                 catch (UnauthorizedAccessException ex)
                 {

@@ -1,0 +1,46 @@
+{
+  "profiles": {
+    "LabWork16": {
+      "commandName": "Project"
+    },
+    "Профиль 1": {
+      "commandName": "Project"
+    },
+    "Профиль 2": {
+      "commandName": "Project",
+      "commandLineArgs": "register"
+    },
+    "Профиль 3": {
+      "commandName": "Project",
+      "commandLineArgs": "--pwd zxc"
+    },
+    "Профиль 4": {
+      "commandName": "Project",
+      "commandLineArgs": "register --pwd ik,"
+    },
+    "Профиль 5": {
+      "commandName": "Project",
+      "commandLineArgs": "register --pwd zxc"
+    },
+    "Профиль 6": {
+      "commandName": "Project",
+      "commandLineArgs": "-l asd"
+    },
+    "Профиль 7": {
+      "commandName": "Project",
+      "commandLineArgs": "-l asd -p zxc"
+    },
+    "Профиль 8": {
+      "commandName": "Project",
+      "commandLineArgs": "-l ujm"
+    },
+    "Профиль 9": {
+      "commandName": "Project",
+      "commandLineArgs": "-l olk -p asd"
+    },
+    "Профиль 10": {
+      "commandName": "Project",
+      "commandLineArgs": "-l asd -p qwe"
+    }
+  }
+}

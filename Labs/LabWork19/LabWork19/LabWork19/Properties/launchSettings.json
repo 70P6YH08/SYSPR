@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "LabWork19": {
+      "commandName": "Project",
+      "commandLineArgs": "read -f D:\\bimbo -s date"
+    },
+    "Профиль 1": {
+      "commandName": "Project",
+      "commandLineArgs": "read -f D:\\bimbo -s ext"
+    },
+    "Профиль 2": {
+      "commandName": "Project",
+      "commandLineArgs": "read -f \"C:\\temp\\NestedFolders\\asdf\" -s move"
+    },
+    "Профиль 3": {
+      "commandName": "Project"
+    }
+  }
+}

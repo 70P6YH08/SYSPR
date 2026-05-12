@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Uhmb5DFeHzE=",
+  "dgSpecHash": "y3vW02A6FYI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\221\\Students\\ispp31\\SYSPR\\Labs\\LabWork16\\LabWork16\\LabWork16.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork16\\LabWork16\\LabWork16\\LabWork16.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gorbu\\.nuget\\packages\\system.commandline\\2.0.7\\system.commandline.2.0.7.nupkg.sha512"
+  ],
   "logs": []
 }

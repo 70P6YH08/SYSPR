@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "LabWork19Task45": {
+      "commandName": "Project",
+      "commandLineArgs": "read -f \"C:\\temp\\NestedFolders\\asdf\\new_sub_dir0\\new_dir0\" -d"
+    },
+    "Профиль 1": {
+      "commandName": "Project",
+      "commandLineArgs": "read -f \"C:\\temp\\NestedFolders\\asdf\\new_sub_dir0\\new_sub_dir1\\new_sub_dir2\\new_sub_dir3\" -s -d"
+    }
+  }
+}
