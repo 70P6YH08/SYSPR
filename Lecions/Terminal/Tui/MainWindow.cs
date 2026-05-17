@@ -6,7 +6,7 @@ using Terminal.Gui.Views;
 
 namespace Tui
 {
-    internal class MainWindow : Terminal.Gui.Views.Window
+    class MainWindow : Window
     {
         FrameView panel1;//Панель, содержащая рамку и название
         FrameView panel2;
@@ -58,8 +58,8 @@ namespace Tui
 
             var files = Directory.GetFiles("C:\\Temp\\").ToList();
 
-            files1.SetSource([..files]); // [.. ...] перевод в коллекцию
-            files2.SetSource([..files]);
+            files1.SetSource([.. files]); // [.. ...] перевод в коллекцию
+            files2.SetSource([.. files]);
         }
     }
 }

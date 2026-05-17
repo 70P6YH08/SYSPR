@@ -123,19 +123,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\gorbu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\LabWork21\\LabWork21\\LabWork21.csproj",
+      "projectUniqueName": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork21\\LabWork21\\LabWork21.csproj",
       "projectName": "LabWork21",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\LabWork21\\LabWork21\\LabWork21.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\LabWork21\\LabWork21\\obj\\",
+      "projectPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork21\\LabWork21\\LabWork21.csproj",
+      "packagesPath": "C:\\Users\\gorbu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork21\\LabWork21\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gorbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -197,7 +202,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

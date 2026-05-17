@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "cK+I1rBBISs=",
+  "dgSpecHash": "okF78ga8UN4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Tui\\Tui.csproj",
+  "projectFilePath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Lecions\\Terminal\\Tui\\Tui.csproj",
   "expectedPackageFiles": [
-    "C:\\NugetCache\\Packages\\colorhelper\\1.8.1\\colorhelper.1.8.1.nupkg.sha512",
-    "C:\\NugetCache\\Packages\\jetbrains.annotations\\2025.2.2\\jetbrains.annotations.2025.2.2.nupkg.sha512",
-    "C:\\NugetCache\\Packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
-    "C:\\NugetCache\\Packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
-    "C:\\NugetCache\\Packages\\system.io.abstractions\\22.0.16\\system.io.abstractions.22.0.16.nupkg.sha512",
-    "C:\\NugetCache\\Packages\\terminal.gui\\2.0.0-develop.5100\\terminal.gui.2.0.0-develop.5100.nupkg.sha512",
-    "C:\\NugetCache\\Packages\\testableio.system.io.abstractions\\22.0.16\\testableio.system.io.abstractions.22.0.16.nupkg.sha512",
-    "C:\\NugetCache\\Packages\\testableio.system.io.abstractions.wrappers\\22.0.16\\testableio.system.io.abstractions.wrappers.22.0.16.nupkg.sha512",
-    "C:\\NugetCache\\Packages\\testably.abstractions.filesystem.interface\\9.0.0\\testably.abstractions.filesystem.interface.9.0.0.nupkg.sha512",
-    "C:\\NugetCache\\Packages\\wcwidth\\4.0.0\\wcwidth.4.0.0.nupkg.sha512"
+    "C:\\Users\\gorbu\\.nuget\\packages\\colorhelper\\1.8.1\\colorhelper.1.8.1.nupkg.sha512",
+    "C:\\Users\\gorbu\\.nuget\\packages\\jetbrains.annotations\\2025.2.2\\jetbrains.annotations.2025.2.2.nupkg.sha512",
+    "C:\\Users\\gorbu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\gorbu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\gorbu\\.nuget\\packages\\system.io.abstractions\\22.0.16\\system.io.abstractions.22.0.16.nupkg.sha512",
+    "C:\\Users\\gorbu\\.nuget\\packages\\terminal.gui\\2.0.0-develop.5100\\terminal.gui.2.0.0-develop.5100.nupkg.sha512",
+    "C:\\Users\\gorbu\\.nuget\\packages\\testableio.system.io.abstractions\\22.0.16\\testableio.system.io.abstractions.22.0.16.nupkg.sha512",
+    "C:\\Users\\gorbu\\.nuget\\packages\\testableio.system.io.abstractions.wrappers\\22.0.16\\testableio.system.io.abstractions.wrappers.22.0.16.nupkg.sha512",
+    "C:\\Users\\gorbu\\.nuget\\packages\\testably.abstractions.filesystem.interface\\9.0.0\\testably.abstractions.filesystem.interface.9.0.0.nupkg.sha512",
+    "C:\\Users\\gorbu\\.nuget\\packages\\wcwidth\\4.0.0\\wcwidth.4.0.0.nupkg.sha512"
   ],
   "logs": []
 }

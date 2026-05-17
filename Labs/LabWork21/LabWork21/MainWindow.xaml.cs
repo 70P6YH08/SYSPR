@@ -27,12 +27,38 @@ namespace LabWork21
             var listMotherBoardProps = mainViewModel.GetMotherBoardDeviceProperties();
             var listOperatingSystemProps = mainViewModel.GetOperatingSystemProperties();
 
+            var listDisk = mainViewModel.GetDiskDriveProperties();
+
+            var listNetworkInformation = mainViewModel.GetNetworkInformation();
+
+            var installApplications = mainViewModel.GetInstalledApplicationName();
+
             processorListView.ItemsSource = listProcessorProps;
             videoControllerListView.ItemsSource = listVideoControllerProps;
             motherboardDeviceListView.ItemsSource = listMotherBoardProps;
             operatingSystemListView.ItemsSource = listOperatingSystemProps;
 
+            var listDiskProps = listDisk
+                .SelectMany(disk => disk.Value
+                .Select(prop => new {
+                    DiskName = disk.Key,
+                    PropName = prop.Key,
+                    PropValue = prop.Value
+                })).ToList();
+
+            diskDriveListView.ItemsSource = listDiskProps;
+
+            var listNetworkInformationProps = listNetworkInformation
+                .SelectMany(networkInterface => networkInterface.Value
+                .Select(prop => new {
+                    InterfaceName = networkInterface.Key,
+                    PropName = prop.Key,
+                    PropValue = prop.Value
+                })).ToList();
+
+            networkListView.ItemsSource = listNetworkInformationProps;
+
+            installedApplicationListView.ItemsSource = installApplications;
         }
     }
 }
-

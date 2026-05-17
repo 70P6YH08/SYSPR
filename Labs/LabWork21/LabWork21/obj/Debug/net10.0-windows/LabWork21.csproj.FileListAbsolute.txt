@@ -23,3 +23,29 @@ C:\Users\Admin\Desktop\LabWork21\LabWork21\obj\Debug\net10.0-windows\refint\LabW
 C:\Users\Admin\Desktop\LabWork21\LabWork21\obj\Debug\net10.0-windows\LabWork21.pdb
 C:\Users\Admin\Desktop\LabWork21\LabWork21\obj\Debug\net10.0-windows\LabWork21.genruntimeconfig.cache
 C:\Users\Admin\Desktop\LabWork21\LabWork21\obj\Debug\net10.0-windows\ref\LabWork21.dll
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\bin\Debug\net10.0-windows\LabWork21.exe
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\bin\Debug\net10.0-windows\LabWork21.deps.json
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\bin\Debug\net10.0-windows\LabWork21.runtimeconfig.json
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\bin\Debug\net10.0-windows\LabWork21.dll
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\bin\Debug\net10.0-windows\LabWork21.pdb
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\bin\Debug\net10.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Management.dll
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\LabWork21.csproj.AssemblyReference.cache
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\LabWork21_MarkupCompile.cache
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\LabWork21_MarkupCompile.lref
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\LabWork21.g.resources
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\LabWork21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\LabWork21.AssemblyInfoInputs.cache
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\LabWork21.AssemblyInfo.cs
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\LabWork21.csproj.CoreCompileInputs.cache
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\LabWork21.sourcelink.json
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\LabWork21.csproj.Up2Date
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\LabWork21.dll
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\refint\LabWork21.dll
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\LabWork21.pdb
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\LabWork21.genruntimeconfig.cache
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork21\LabWork21\obj\Debug\net10.0-windows\ref\LabWork21.dll

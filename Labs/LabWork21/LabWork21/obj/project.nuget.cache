@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "vPbsuZJuUx4=",
+  "dgSpecHash": "B/nM/+99wEk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\LabWork21\\LabWork21\\LabWork21.csproj",
+  "projectFilePath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork21\\LabWork21\\LabWork21.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.management\\10.0.7\\system.management.10.0.7.nupkg.sha512"
+    "C:\\Users\\gorbu\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512",
+    "C:\\Users\\gorbu\\.nuget\\packages\\system.management\\10.0.7\\system.management.10.0.7.nupkg.sha512"
   ],
   "logs": []
 }

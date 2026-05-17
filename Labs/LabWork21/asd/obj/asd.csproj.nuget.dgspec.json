@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\LabWork21\\asd\\asd.csproj": {}
+    "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork21\\asd\\asd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\LabWork21\\asd\\asd.csproj": {
+    "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork21\\asd\\asd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\LabWork21\\asd\\asd.csproj",
+        "projectUniqueName": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork21\\asd\\asd.csproj",
         "projectName": "asd",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\LabWork21\\asd\\asd.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\LabWork21\\asd\\obj\\",
+        "projectPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork21\\asd\\asd.csproj",
+        "packagesPath": "C:\\Users\\gorbu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork21\\asd\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gorbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

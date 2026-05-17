@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cjyctiPn7Fg=",
+  "dgSpecHash": "mFuPFpWPys8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Terminal\\Cli\\Cli.csproj",
+  "projectFilePath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Lecions\\Terminal\\Cli\\Cli.csproj",
   "expectedPackageFiles": [
-    "C:\\NugetCache\\Packages\\system.commandline\\2.0.3\\system.commandline.2.0.3.nupkg.sha512"
+    "C:\\Users\\gorbu\\.nuget\\packages\\system.commandline\\2.0.3\\system.commandline.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -7,21 +7,77 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <StackPanel>
-        <TabControl Height="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type Window}}, Path=ActualHeight}">
+        <TabControl Height="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type Window}}, Path=ActualHeight}" Width="1000">
             <TabItem Header="Процессор">
-                <ListView x:Name="processorListView" ScrollViewer.VerticalScrollBarVisibility="Visible"/>
+                <ListView x:Name="processorListView" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=Key}" Header="Характеристика" Width="250"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=Value}" Header="Значение" Width="250"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
             </TabItem>
             <TabItem Header="Видеокартка">
-                <ListView x:Name="videoControllerListView" ScrollViewer.VerticalScrollBarVisibility="Visible"/>
+                <ListView x:Name="videoControllerListView" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=Key}" Header="Характеристика" Width="250"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=Value}" Header="Значение" Width="250"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
             </TabItem>
             <TabItem Header="Материнская плата">
-                <ListView x:Name="motherboardDeviceListView" ScrollViewer.VerticalScrollBarVisibility="Visible"/>
+                <ListView x:Name="motherboardDeviceListView" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=Key}" Header="Характеристика" Width="250"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=Value}" Header="Значение" Width="250"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
             </TabItem>
             <TabItem Header="Физические диски">
-                <ListView x:Name="diskDriveListView" ScrollViewer.VerticalScrollBarVisibility="Visible"/>
+                <ListView x:Name="diskDriveListView" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=DiskName}" Header="Диск" Width="250"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=PropName}" Header="Свойство" Width="250"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=PropValue}" Header="Значение" Width="250"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
             </TabItem>
             <TabItem Header="Операционная система">
-                <ListView x:Name="operatingSystemListView" ScrollViewer.VerticalScrollBarVisibility="Visible"/>
+                <ListView x:Name="operatingSystemListView" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=Key}" Header="Характеристика" Width="250"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=Value}" Header="Значение" Width="250"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </TabItem>
+            <TabItem Header="Сеть">
+                <ListView x:Name="networkListView" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=InterfaceName}" Header="Характеристика" Width="250"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=PropName}" Header="Характеристика" Width="250"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=PropValue}" Header="Характеристика" Width="250"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </TabItem>
+            <TabItem Header="Установленные программы">
+                <ListView x:Name="installedApplicationListView" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Приложения" Width="700"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
             </TabItem>
         </TabControl>
     </StackPanel>
