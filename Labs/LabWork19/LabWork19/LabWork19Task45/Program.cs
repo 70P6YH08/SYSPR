@@ -49,7 +49,7 @@ static void DirInfo(DirectoryInfo directory, bool searchType, bool deleteDup)
     if (searchType)
         GetAllFiles(directory, list);
     else
-        GetFile(directory, list);
+        GetDirectoryFiles(directory, list);
 
     var hashFileList = new List<(string Hash, FileInfo File)>();
     foreach (var file in list)
@@ -92,7 +92,7 @@ static void DirInfo(DirectoryInfo directory, bool searchType, bool deleteDup)
     }
 }
 
-static void GetFile(DirectoryInfo directory, List<FileInfo> list)
+static void GetDirectoryFiles(DirectoryInfo directory, List<FileInfo> list)
 {
     foreach (var file in directory.GetFiles())
         list.Add(file);

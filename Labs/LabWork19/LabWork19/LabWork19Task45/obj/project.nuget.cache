@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KmHNDBZAAzw=",
+  "dgSpecHash": "VWCoFQuNyEI=",
   "success": true,
   "projectFilePath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork19\\LabWork19\\LabWork19Task45\\LabWork19Task45.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gorbu\\.nuget\\packages\\system.commandline\\2.0.7\\system.commandline.2.0.7.nupkg.sha512"
+  ],
   "logs": []
 }

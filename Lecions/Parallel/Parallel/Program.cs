@@ -37,7 +37,7 @@ Task task2 = Task.Factory.StartNew(() => Console.WriteLine("2"));
 Task task3 = Task.Run(() => Console.WriteLine("3"));
 
 
-task1.Wait();
+task1.Wait(1000);
 
 var tasks = new Task[5];
 for (int i = 0; i < 5; i++)
@@ -45,7 +45,7 @@ for (int i = 0; i < 5; i++)
     tasks[i] = Task.Run(() => Console.WriteLine(i));
 }
 
-Task.WaitAll(tasks);
+Task.WaitAll(tasks, 1000);
 
 Task<int> taskRes = new Task<int>(() =>
 {

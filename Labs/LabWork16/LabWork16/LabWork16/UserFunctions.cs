@@ -1,24 +1,29 @@
 ﻿using System.Text.Json;
+using System.Buffers;
 
 class UserFunctions
 {
     public static string Password(out ConsoleKeyInfo key)
     {
         string password = "";
-        do
+        while(true)
         {
             key = Console.ReadKey(true);
-            if (key.Key != ConsoleKey.Enter)
+            if (key.Key == ConsoleKey.Enter)
+            {
+                break;
+            }
+            else if(key.Key == ConsoleKey.Backspace)
+            {
+                password = password.Substring(0, password.Length - 1);
+                Console.Write("\b \b");
+            }
+            else if (key.Key != ConsoleKey.Enter)
             {
                 password += key.KeyChar;
                 Console.Write("*");
             }
-            while (String.IsNullOrEmpty(password))
-            {
-                Console.Write("Пароль не может быть пуст: ");
-                password = Console.ReadLine();
-            }
-        } while (key.Key != ConsoleKey.Enter);
+        };
         Console.WriteLine();
         return password;
     }

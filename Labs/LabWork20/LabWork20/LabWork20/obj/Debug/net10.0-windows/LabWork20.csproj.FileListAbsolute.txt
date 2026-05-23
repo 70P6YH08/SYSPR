@@ -3,11 +3,9 @@ C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork
 C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\bin\Debug\net10.0-windows\LabWork20.runtimeconfig.json
 C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\bin\Debug\net10.0-windows\LabWork20.dll
 C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\bin\Debug\net10.0-windows\LabWork20.pdb
-C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\obj\Debug\net10.0-windows\MainWindow.g.cs
 C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\obj\Debug\net10.0-windows\App.g.cs
 C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\obj\Debug\net10.0-windows\LabWork20_MarkupCompile.cache
 C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\obj\Debug\net10.0-windows\LabWork20_MarkupCompile.lref
-C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\obj\Debug\net10.0-windows\MainWindow.baml
 C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\obj\Debug\net10.0-windows\LabWork20.g.resources
 C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\obj\Debug\net10.0-windows\LabWork20.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\obj\Debug\net10.0-windows\LabWork20.AssemblyInfoInputs.cache
@@ -22,3 +20,7 @@ C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork
 C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\bin\Debug\net10.0-windows\CommunityToolkit.Mvvm.dll
 C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\obj\Debug\net10.0-windows\LabWork20.csproj.AssemblyReference.cache
 C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\obj\Debug\net10.0-windows\LabWork20.csproj.Up2Date
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\obj\Debug\net10.0-windows\Views\MainWindow.g.cs
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\obj\Debug\net10.0-windows\Views\MainWindow.baml
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\obj\Debug\net10.0-windows\Views\StartProcessWindow.g.cs
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork20\LabWork20\LabWork20\obj\Debug\net10.0-windows\Views\StartProcessWindow.baml
