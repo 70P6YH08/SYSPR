@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="CreateDirectoriesScript/CreateDirectoriesScript.csproj" Id="ca16fdeb-0ea3-455a-bdda-815e5f1ef682" />
   <Project Path="LabWork19/LabWork19.csproj" />
   <Project Path="LabWork19Task45/LabWork19Task45.csproj" Id="40a510c4-f06d-4b5e-8a02-299d46d9cbf5" />
 </Solution>

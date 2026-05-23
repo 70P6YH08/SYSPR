@@ -1,0 +1,15 @@
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork19\LabWork19\CreateDirectoriesScript\bin\Debug\net10.0\CreateDirectoriesScript.exe
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork19\LabWork19\CreateDirectoriesScript\bin\Debug\net10.0\CreateDirectoriesScript.deps.json
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork19\LabWork19\CreateDirectoriesScript\bin\Debug\net10.0\CreateDirectoriesScript.runtimeconfig.json
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork19\LabWork19\CreateDirectoriesScript\bin\Debug\net10.0\CreateDirectoriesScript.dll
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork19\LabWork19\CreateDirectoriesScript\bin\Debug\net10.0\CreateDirectoriesScript.pdb
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork19\LabWork19\CreateDirectoriesScript\obj\Debug\net10.0\CreateDirectoriesScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork19\LabWork19\CreateDirectoriesScript\obj\Debug\net10.0\CreateDirectoriesScript.AssemblyInfoInputs.cache
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork19\LabWork19\CreateDirectoriesScript\obj\Debug\net10.0\CreateDirectoriesScript.AssemblyInfo.cs
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork19\LabWork19\CreateDirectoriesScript\obj\Debug\net10.0\CreateDirectoriesScript.csproj.CoreCompileInputs.cache
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork19\LabWork19\CreateDirectoriesScript\obj\Debug\net10.0\CreateDirectoriesScript.sourcelink.json
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork19\LabWork19\CreateDirectoriesScript\obj\Debug\net10.0\CreateDirectoriesScript.dll
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork19\LabWork19\CreateDirectoriesScript\obj\Debug\net10.0\refint\CreateDirectoriesScript.dll
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork19\LabWork19\CreateDirectoriesScript\obj\Debug\net10.0\CreateDirectoriesScript.pdb
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork19\LabWork19\CreateDirectoriesScript\obj\Debug\net10.0\CreateDirectoriesScript.genruntimeconfig.cache
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork19\LabWork19\CreateDirectoriesScript\obj\Debug\net10.0\ref\CreateDirectoriesScript.dll

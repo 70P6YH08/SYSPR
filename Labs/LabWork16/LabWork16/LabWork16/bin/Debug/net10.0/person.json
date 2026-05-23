@@ -50,5 +50,13 @@
   {
     "Login": "qaz",
     "Password": "qaz"
+  },
+  {
+    "Login": "qwe",
+    "Password": "asd"
+  },
+  {
+    "Login": "p;/",
+    "Password": "ik,"
   }
 ]

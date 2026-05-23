@@ -1,7 +1,7 @@
 ﻿public class FileDirInfo
 {
     public FileType Type { get; set; } = 0;
-    public string? IconPath { get => field = $@"C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork17\LabWork17\LabWork17\Icons\{Type}.png"; set; }
+    public string? IconPath { get => field = $@"C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork17\LabWork17\LabWork17\Icons\{Type}.png"; set; }
     public string Name { get; set; }
     public DateTime? ChangedTime { get; set; }
     public string? Weight { get; set; }

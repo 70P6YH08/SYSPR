@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:LabWork20"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <StackPanel>
+    <StackPanel MaxWidth="1200">
         <Menu>
             <MenuItem x:Name="NewWindowMenuItem" Header="Запустить новую задачу" Click="NewWindowMenuItem_Click"/>
             <MenuItem Header="Снять задачу"/>
@@ -16,8 +16,7 @@
             <TextBlock Text="Количество запущенных процессов: "/>
             <TextBlock Text="{Binding CountProcess}"/>
         </DockPanel>
-        <TabControl Height="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type Window}}, Path=ActualHeight}"
-                    MaxWidth="1200">
+        <TabControl Height="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type Window}}, Path=ActualHeight}">
             <TabItem Header="Процесы">
                 <DataGrid ItemsSource="{Binding Processes}" Margin="3"
                           ScrollViewer.VerticalScrollBarVisibility="Visible" AutoGenerateColumns="False">

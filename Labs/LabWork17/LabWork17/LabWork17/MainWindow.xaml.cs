@@ -134,6 +134,8 @@ namespace LabWork17
                     viewModel.Search(newFolderPath);
                     DirPathTextBox.Text = newFolderPath;
                 }
+                else
+                    MessageBox.Show("Такой директории не существует!", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
         }
 

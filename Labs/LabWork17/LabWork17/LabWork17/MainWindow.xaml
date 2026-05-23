@@ -23,7 +23,7 @@
             ItemsSource="{Binding Files}"
             AutoGenerateColumns="False"
             ScrollViewer.VerticalScrollBarVisibility="Visible"
-            MouseDoubleClick="OpenFolder_MouseDoubleClick"
+            MouseDoubleClick="OpenFolder_MouseDoubleClick" Background="Gray"
             >
             <DataGrid.Columns>
                 <DataGridTemplateColumn Header="Иконка" Width="50">
