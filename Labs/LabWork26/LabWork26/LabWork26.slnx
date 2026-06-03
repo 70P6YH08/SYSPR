@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Task1/">
+    <Project Path="Client/Client.csproj" />
+    <Project Path="Listener/Listener.csproj" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="ConsoleClient/ConsoleClient.csproj" Id="112d72ee-73d4-444f-b758-04be6f779236" />
+    <Project Path="ConsoleServer/ConsoleServer.csproj" Id="eb561a57-fa46-4977-8030-e70865111978" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="FileClient/FileClient.csproj" Id="ec6c0ac5-4ae7-4744-bf5d-2f5131dc1573" />
+    <Project Path="FileServer/FileServer.csproj" Id="e7554c32-4568-4120-a989-f597dc4006b0" />
+  </Folder>
+</Solution>

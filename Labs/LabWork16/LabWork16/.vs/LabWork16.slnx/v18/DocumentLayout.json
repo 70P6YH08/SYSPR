@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork16\\LabWork16\\",
+  "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork16\\LabWork16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66D1293B-A031-B47E-9635-75DAEEF75BE8}|LabWork16\\LabWork16.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork16\\labwork16\\labwork16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66D1293B-A031-B47E-9635-75DAEEF75BE8}|LabWork16\\LabWork16.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\labs\\labwork16\\labwork16\\labwork16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66D1293B-A031-B47E-9635-75DAEEF75BE8}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66D1293B-A031-B47E-9635-75DAEEF75BE8}|LabWork16\\LabWork16.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork16\\labwork16\\labwork16\\userfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66D1293B-A031-B47E-9635-75DAEEF75BE8}|LabWork16\\LabWork16.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\labs\\labwork16\\labwork16\\labwork16\\userfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66D1293B-A031-B47E-9635-75DAEEF75BE8}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\userfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork16\\LabWork16\\LabWork16\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork16\\LabWork16\\LabWork16\\Program.cs",
               "RelativeDocumentMoniker": "LabWork16\\Program.cs",
-              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork16\\LabWork16\\LabWork16\\Program.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork16\\LabWork16\\LabWork16\\Program.cs",
               "RelativeToolTip": "LabWork16\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-23T12:05:21.373Z",
               "EditorCaption": ""
@@ -65,11 +65,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UserFunctions.cs",
-              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork16\\LabWork16\\LabWork16\\UserFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork16\\LabWork16\\LabWork16\\UserFunctions.cs",
               "RelativeDocumentMoniker": "LabWork16\\UserFunctions.cs",
-              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork16\\LabWork16\\LabWork16\\UserFunctions.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork16\\LabWork16\\LabWork16\\UserFunctions.cs",
               "RelativeToolTip": "LabWork16\\UserFunctions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAIwAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-10T19:07:45.656Z",
               "EditorCaption": ""
@@ -80,10 +80,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"

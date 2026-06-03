@@ -1,0 +1,62 @@
+﻿<Window x:Class="LabWork17.Views.FolderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork17.Views"
+        mc:Ignorable="d"
+        Title="FolderWindow" Height="300" Width="400">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="350">
+            <Border BorderBrush="Gray">
+                <Border.BorderThickness>
+                    <Thickness Bottom="1"/>
+                </Border.BorderThickness>
+                <DockPanel Margin="2" Background="AliceBlue">
+                    <Image Source="{Binding SelectedFolder.IconPath}" Height="30" Width="30" Margin="0 0 40 0"/>
+                    <TextBox Text="{Binding SelectedFolder.Name}" VerticalAlignment="Center" Width="Auto" BorderBrush="LightBlue">
+                        <TextBox.BorderThickness>
+                            <Thickness Bottom="2"/>
+                        </TextBox.BorderThickness>
+                    </TextBox>
+                </DockPanel>
+            </Border>
+
+            <Border BorderBrush="Gray">
+                <Border.BorderThickness>
+                    <Thickness Bottom="1"/>
+                </Border.BorderThickness>
+                <DockPanel Margin="2" Background="AliceBlue">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition Height="20"/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="3*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Тип:"/>
+                        <TextBlock Text="Количество файлов:" Grid.Row="1"/>
+                        <TextBlock Text="Количество папок:" Grid.Row="2"/>
+                        <TextBlock Text="Размер папки:" Grid.Row="3"/>
+                        <TextBlock Text="Место на диске:" Grid.Row="4"/>
+                        <TextBox Text="{Binding SelectedFolder.DiskType}" VerticalAlignment="Center" Width="Auto" Grid.Column="1" Background="AliceBlue" BorderThickness="0"/>
+                        <TextBox Text="{Binding SelectedFolder.CountFiles}" VerticalAlignment="Center" Width="Auto" Grid.Column="1" Grid.Row="1" Background="AliceBlue" BorderThickness="0"/>
+                        <TextBox Text="{Binding SelectedFolder.CountDirs}" VerticalAlignment="Center" Width="Auto" Grid.Column="1" Grid.Row="2" Background="AliceBlue" BorderThickness="0"/>
+                        <TextBox Text="{Binding SelectedFolder.FolderSize}" VerticalAlignment="Center" Width="Auto" Grid.Column="1" Grid.Row="3" Background="AliceBlue" BorderThickness="0"/>
+                        <ProgressBar Value="{Binding SelectedFolder.FolderPercent}" Maximum="100" VerticalAlignment="Center" Width="Auto" Grid.Column="1" Grid.Row="4" BorderThickness="0" Height="15"/>
+                    <DataGrid Grid.Row="6" ItemsSource="{Binding SelectedFolder.TopFiles}" AutoGenerateColumns="False" Grid.ColumnSpan="2">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding Key}" Header="Вес" Width="100"/>
+                            <DataGridTextColumn Binding="{Binding Value}" Header="Имя файла" Width="100"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    </Grid>
+                </DockPanel>
+            </Border>
+        </StackPanel>
+</Window>

@@ -2,4 +2,6 @@
   <Project Path="LabWork22/Task1.csproj" />
   <Project Path="Task2/Task2.csproj" />
   <Project Path="Task3/Task3.csproj" />
+  <Project Path="Task4/Task4.csproj" Id="b8d4d4f4-10fd-431f-b215-e6553a04811c" />
+  <Project Path="Task5/Task5.csproj" Id="7f81eb9a-6ba3-4ce1-876d-8c00a80b0754" />
 </Solution>

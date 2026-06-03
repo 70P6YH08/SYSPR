@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Screensaver\\ScreensaverNET\\",
+  "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Lecions\\Screensaver\\ScreensaverNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E10B7DA-0DBE-4FF8-AEC7-4E4F4A4B96F9}|ScreensaverNET\\ScreensaverNET.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\lecions\\screensaver\\screensavernet\\screensavernet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8E10B7DA-0DBE-4FF8-AEC7-4E4F4A4B96F9}|ScreensaverNET\\ScreensaverNET.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\lecions\\screensaver\\screensavernet\\screensavernet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8E10B7DA-0DBE-4FF8-AEC7-4E4F4A4B96F9}|ScreensaverNET\\ScreensaverNET.csproj|solutionrelative:screensavernet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E10B7DA-0DBE-4FF8-AEC7-4E4F4A4B96F9}|ScreensaverNET\\ScreensaverNET.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\lecions\\screensaver\\screensavernet\\screensavernet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E10B7DA-0DBE-4FF8-AEC7-4E4F4A4B96F9}|ScreensaverNET\\ScreensaverNET.csproj|solutionrelative:screensavernet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E10B7DA-0DBE-4FF8-AEC7-4E4F4A4B96F9}|ScreensaverNET\\ScreensaverNET.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\lecions\\screensaver\\screensavernet\\screensavernet\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E10B7DA-0DBE-4FF8-AEC7-4E4F4A4B96F9}|ScreensaverNET\\ScreensaverNET.csproj|solutionrelative:screensavernet\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,12 +49,42 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Lecions\\Screensaver\\ScreensaverNET\\ScreensaverNET\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ScreensaverNET\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Lecions\\Screensaver\\ScreensaverNET\\ScreensaverNET\\Form1.Designer.cs",
+              "RelativeToolTip": "ScreensaverNET\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T20:07:55.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Lecions\\Screensaver\\ScreensaverNET\\ScreensaverNET\\Program.cs",
+              "RelativeDocumentMoniker": "ScreensaverNET\\Program.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Lecions\\Screensaver\\ScreensaverNET\\ScreensaverNET\\Program.cs",
+              "RelativeToolTip": "ScreensaverNET\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T20:07:51.216Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Screensaver\\ScreensaverNET\\ScreensaverNET\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Lecions\\Screensaver\\ScreensaverNET\\ScreensaverNET\\Form1.cs",
               "RelativeDocumentMoniker": "ScreensaverNET\\Form1.cs",
-              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Lecions\\Screensaver\\ScreensaverNET\\ScreensaverNET\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Lecions\\Screensaver\\ScreensaverNET\\ScreensaverNET\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "ScreensaverNET\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T06:19:16.707Z",
@@ -58,10 +96,6 @@
           "DockedWidth": 794,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
