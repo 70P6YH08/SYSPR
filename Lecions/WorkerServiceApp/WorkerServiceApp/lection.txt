@@ -1,0 +1,10 @@
+Worker Service
+
+	IHostedService:
+		StartAsync() - при запуске сервиса
+		StopAsync() - при завершении сервиса
+
+	BackgroundService - абстрактный класс, реализующий IHostedService и IDisposable (удаление мусора):
+		ExecuteAsync() - должен содержать логику выполнения сервиса
+
+	Добавление рабочего (Worker) в приложение builder.Services.AddHostedService<Worker>();

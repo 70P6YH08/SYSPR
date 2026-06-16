@@ -1,0 +1,6 @@
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\LabWork28Grpc\LabWork28GrpcClient\obj\Debug\net10.0\LabWork28GrpcClient.csproj.AssemblyReference.cache
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\LabWork28Grpc\LabWork28GrpcClient\obj\Debug\net10.0\LabWork28GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\LabWork28Grpc\LabWork28GrpcClient\obj\Debug\net10.0\LabWork28GrpcClient.AssemblyInfoInputs.cache
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\LabWork28Grpc\LabWork28GrpcClient\obj\Debug\net10.0\LabWork28GrpcClient.AssemblyInfo.cs
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\LabWork28Grpc\LabWork28GrpcClient\obj\Debug\net10.0\LabWork28GrpcClient.csproj.CoreCompileInputs.cache
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\LabWork28Grpc\LabWork28GrpcClient\obj\Debug\net10.0\LabWork28GrpcClient.sourcelink.json

@@ -1,0 +1,21 @@
+ТИПЫ proto:
+	double
+	float
+	int32 - int
+	int64 - long
+	uint32 - uint
+	uint64 - ulong
+	sint32 - int
+	sint64 - long
+	bool
+	string
+	bytes - ByteString
+	Nullable
+	google.protobuf.BoolValue и т.д.
+	google.protobuf.Timestamp
+	google.protobuf.Empty
+	
+	Для указания массива данных используется ключевое слово
+	repeated, например: repeated bytes ...
+
+	

@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+option csharp_namespace = "LabWork28Grpc";
+
+package greet;
+
+// The greeting service definition.
+service Greeter {
+  // Sends a greeting
+  rpc SendOrder (OrderRequest) returns (OrderReply);
+  rpc Order (OrderRequest) returns (OrderReply);
+}
+
+// The request message containing the user's name.
+message OrderRequest {
+  string name = 1;
+}
+
+// The response message containing the greetings.
+message OrderReply {
+  string message = 1;
+}
+
+message Order{
+	int32 orderId = 1;
+	google.protobuf.Timestamp start = 2;
+	repeated string orderName = 3;
+}

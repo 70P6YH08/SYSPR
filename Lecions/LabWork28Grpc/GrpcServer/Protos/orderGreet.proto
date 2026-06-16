@@ -1,0 +1,93 @@
+﻿syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+
+option csharp_namespace = "GrpcService";
+
+package order;
+
+// Сервис для работы с заказами
+service OrderService {
+  // Создание заказа
+  rpc CreateOrder (CreateOrderRequest) returns (OrderResponse);
+  
+  // Получение заказа по ID
+  rpc GetOrder (GetOrderRequest) returns (OrderResponse);
+  
+  // Обновление заказа
+  rpc UpdateOrder (UpdateOrderRequest) returns (OrderResponse);
+  
+  // Удаление заказа
+  rpc DeleteOrder (DeleteOrderRequest) returns (DeleteOrderResponse);
+  
+  // Получение всех заказов
+  rpc ListOrders (ListOrdersRequest) returns (ListOrdersResponse);
+  
+  // Фильтрация заказов по дате и стоимости
+  rpc FilterOrders (FilterOrdersRequest) returns (ListOrdersResponse);
+}
+
+// Сообщение для товара
+message OrderItem {
+  string name = 1;
+  double price = 2;
+}
+
+// Сообщение для заказа
+message Order {
+  string id = 1;
+  google.protobuf.Timestamp order_date = 2;
+  repeated OrderItem items = 3;
+}
+
+// Запрос на создание заказа
+message CreateOrderRequest {
+  google.protobuf.Timestamp order_date = 1;
+  repeated OrderItem items = 2;
+}
+
+// Запрос на получение заказа
+message GetOrderRequest {
+  string id = 1;
+}
+
+// Запрос на обновление заказа
+message UpdateOrderRequest {
+  string id = 1;
+  google.protobuf.Timestamp order_date = 2;
+  repeated OrderItem items = 3;
+}
+
+// Запрос на удаление заказа
+message DeleteOrderRequest {
+  string id = 1;
+}
+
+// Ответ на удаление
+message DeleteOrderResponse {
+  bool success = 1;
+  string message = 2;
+}
+
+// Ответ с заказом
+message OrderResponse {
+  Order order = 1;
+}
+
+// Запрос на список заказов
+message ListOrdersRequest {
+  // Пустой запрос
+}
+
+// Ответ со списком заказов
+message ListOrdersResponse {
+  repeated Order orders = 1;
+}
+
+// Запрос на фильтрацию заказов
+message FilterOrdersRequest {
+  google.protobuf.Timestamp start_date = 1;
+  google.protobuf.Timestamp end_date = 2;
+  double min_total_price = 3;
+  double max_total_price = 4;
+}

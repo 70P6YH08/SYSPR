@@ -1,0 +1,46 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "GrpcOrderClient";
+
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/empty.proto";
+
+package order;
+
+// Сервис для управления заказами
+service OrderManager {
+  rpc CreateOrder (CreateOrderRequest) returns (Order);
+  rpc GetOrder (GetOrderRequest) returns (Order);
+  rpc DeleteOrder (DeleteOrderRequest) returns (google.protobuf.Empty);
+  rpc ListOrders (google.protobuf.Empty) returns (OrderList);
+}
+
+// Сущность товара
+message OrderItem {
+  string name = 1;
+  double price = 2;
+}
+
+// Сущность заказа
+message Order {
+  string id = 1;
+  google.protobuf.Timestamp order_date = 2;
+  repeated OrderItem items = 3;
+}
+
+// Запросы и ответы
+message CreateOrderRequest {
+  repeated OrderItem items = 1;
+}
+
+message GetOrderRequest {
+  string id = 1;
+}
+
+message DeleteOrderRequest {
+  string id = 1;
+}
+
+message OrderList {
+  repeated Order orders = 1;
+}
