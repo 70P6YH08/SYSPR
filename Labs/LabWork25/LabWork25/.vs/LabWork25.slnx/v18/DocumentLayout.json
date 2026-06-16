@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork25\\LabWork25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D81EE424-6CA5-4E23-8434-2AD88C3B0C40}|LabWork25\\LabWork25.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\labs\\labwork25\\labwork25\\labwork25\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D81EE424-6CA5-4E23-8434-2AD88C3B0C40}|LabWork25\\LabWork25.csproj|solutionrelative:labwork25\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF522562-530A-75EE-88C7-ABB8B5710D43}|LabWork25\\LabWork25.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\labs\\labwork25\\labwork25\\labwork25\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF522562-530A-75EE-88C7-ABB8B5710D43}|LabWork25\\LabWork25.csproj|solutionrelative:labwork25\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D81EE424-6CA5-4E23-8434-2AD88C3B0C40}|LabWork25\\LabWork25.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\labs\\labwork25\\labwork25\\labwork25\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D81EE424-6CA5-4E23-8434-2AD88C3B0C40}|LabWork25\\LabWork25.csproj|solutionrelative:labwork25\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{EF522562-530A-75EE-88C7-ABB8B5710D43}|LabWork25\\LabWork25.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\labs\\labwork25\\labwork25\\labwork25\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF522562-530A-75EE-88C7-ABB8B5710D43}|LabWork25\\LabWork25.csproj|solutionrelative:labwork25\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CustomButton.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork25\\LabWork25\\LabWork25\\CustomButton.cs",
+              "RelativeDocumentMoniker": "LabWork25\\CustomButton.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork25\\LabWork25\\LabWork25\\CustomButton.cs",
+              "RelativeToolTip": "LabWork25\\CustomButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T16:30:22.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork25\\LabWork25\\LabWork25\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "LabWork25\\Views\\MainWindow.xaml",
@@ -58,19 +71,6 @@
               "RelativeToolTip": "LabWork25\\Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-28T16:55:53.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomButton.cs",
-              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork25\\LabWork25\\LabWork25\\CustomButton.cs",
-              "RelativeDocumentMoniker": "LabWork25\\CustomButton.cs",
-              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork25\\LabWork25\\LabWork25\\CustomButton.cs",
-              "RelativeToolTip": "LabWork25\\CustomButton.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T16:30:22.873Z",
               "EditorCaption": ""
             }
           ]
