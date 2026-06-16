@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork23\\Lab23\\",
+  "WorkspaceRootPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork23\\Lab23\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBE4521F-8C8A-22DC-9058-6CDB04751B4F}|Lab23\\Lab23.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\labs\\labwork23\\lab23\\lab23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBE4521F-8C8A-22DC-9058-6CDB04751B4F}|Lab23\\Lab23.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork23\\lab23\\lab23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBE4521F-8C8A-22DC-9058-6CDB04751B4F}|Lab23\\Lab23.csproj|solutionrelative:lab23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork23\\Lab23\\Lab23\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork23\\Lab23\\Lab23\\Program.cs",
               "RelativeDocumentMoniker": "Lab23\\Program.cs",
-              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork23\\Lab23\\Lab23\\Program.cs",
-              "RelativeToolTip": "Lab23\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork23\\Lab23\\Lab23\\Program.cs*",
+              "RelativeToolTip": "Lab23\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T17:34:43.45Z",
               "EditorCaption": ""
@@ -63,6 +63,10 @@
           "DockedWidth": 289,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"

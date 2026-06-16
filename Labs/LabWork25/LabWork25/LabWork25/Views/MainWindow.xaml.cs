@@ -20,5 +20,10 @@ namespace LabWork25.Views
         {
             InitializeComponent();
         }
+
+        private void CustomButton_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("");
+        }
     }
 }

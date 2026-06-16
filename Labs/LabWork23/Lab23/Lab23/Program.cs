@@ -2,7 +2,7 @@
 using System.Drawing.Imaging;
 
 object locker = new();
-DirectoryInfo picturesDir = new("C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork23\\Lab23\\Lab23\\Pictures\\");
+DirectoryInfo picturesDir = new(@"C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork23\Lab23\Lab23\Pictures\");
 
 GetPictures();
 

@@ -24,7 +24,7 @@ namespace LabWork24.ViewModels
         {
 
             _updatePicture = new DispatcherTimer();
-            _updatePicture.Interval = TimeSpan.FromSeconds(5);
+            _updatePicture.Interval = TimeSpan.FromSeconds(2);
             _updatePicture.Tick += UpdatePicture_Tick;
             _updatePicture.Start();
 

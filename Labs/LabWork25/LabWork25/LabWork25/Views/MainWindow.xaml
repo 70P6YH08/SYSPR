@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
-        <local:CustomButton Height="50" Width="120" Margin="10" Text="Hhahahah"/>
+        <local:CustomButton Height="50" Width="120" Margin="10" Text="Hhahahah" Click="CustomButton_Click"/>
         <local:CustomButton Height="50" Width="200" Margin="10" BorderSize="5" BorderColor="DarkGoldenrod" Text="Кастомная кнопка" Background="Orange"/>
         <local:CustomButton Height="100" Width="80" Margin="10" FontFamily="Impact" Text="General" FontStretch="Condensed" FontStyle="Normal" Foreground="BlueViolet"/>
         <local:CustomButton Height="50" Width="70" Margin="10" ShadowColor="DarkGreen" Background="DarkSeaGreen" BorderColor="Green" Text="Button" FontStyle="Normal" Foreground="Green"/>

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mcZqw0WOBvs=",
+  "dgSpecHash": "Px0viPypNqE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork26\\LabWork26\\FileServer\\FileServer.csproj",
+  "projectFilePath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork26\\LabWork26\\FileServer\\FileServer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gorbu\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.8\\microsoft.win32.systemevents.10.0.8.nupkg.sha512",
-    "C:\\Users\\gorbu\\.nuget\\packages\\system.drawing.common\\10.0.8\\system.drawing.common.10.0.8.nupkg.sha512"
+    "C:\\NugetCache\\Packages\\microsoft.win32.systemevents\\10.0.8\\microsoft.win32.systemevents.10.0.8.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.drawing.common\\10.0.8\\system.drawing.common.10.0.8.nupkg.sha512"
   ],
   "logs": []
 }
