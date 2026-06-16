@@ -7,7 +7,7 @@ namespace LabWork25
     {
         private VisualCollection _children;
         private DrawingVisual _visual;
-
+            
         private bool _isHovered;
         private bool _isPressed;
 
