@@ -1,10 +1,12 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.AspNetCore.SignalR.Client;
+using Microsoft.Extensions.DependencyInjection;
 using SignalRClientWpf.Services;
 using SignalRClientWpf.ViewModels;
 using SignalRClientWpf.Views;
 using System.Configuration;
 using System.Data;
 using System.Windows;
+using System.Windows.Automation.Provider;
 
 namespace SignalRClientWpf
 {
@@ -13,29 +15,29 @@ namespace SignalRClientWpf
     /// </summary>
     public partial class App : Application
     {
-        private static IServiceProvider _serviceProvider;
+        private static IServiceProvider? _serviceProvider;
+        public App() { }
 
-        public App()
+        protected override void OnStartup(StartupEventArgs e)
         {
+            base.OnStartup(e);
+
             var services = new ServiceCollection();
+
+            services.AddTransient<HubConnection>(h => new HubConnectionBuilder()
+                    .WithUrl("https://localhost:7058/chat")
+                    .WithAutomaticReconnect()
+                    .Build());
 
             services.AddTransient<ChatViewModel>();
             services.AddTransient<MainViewModel>();
             services.AddTransient<WindowService>();
 
             _serviceProvider = services.BuildServiceProvider();
-        }
 
-        protected override void OnStartup(StartupEventArgs e)
-        {
-            var mainViewModel = _serviceProvider.GetRequiredService<MainViewModel>();
+            var windowService = _serviceProvider.GetRequiredService<WindowService>();
 
-            var mainWindow = new MainWindow
-            {
-                DataContext = mainViewModel
-            };
-
-            mainWindow.Show();
+            windowService.OpenMainWindow();
         }
     }
 }

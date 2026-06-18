@@ -11,7 +11,6 @@ namespace SignalRClientWpf.Services
 {
     public class WindowService
     {
-
         private readonly IServiceProvider _serviceProvider;
 
         public WindowService(IServiceProvider serviceProvider)
@@ -19,36 +18,31 @@ namespace SignalRClientWpf.Services
             _serviceProvider = serviceProvider;
         }
 
-        public async Task OpenChatWindow(string name, HubConnection connection)
+        public void OpenChatWindow(string user, string roomName, HubConnection connection)
         {
-            var viewModel = new ChatViewModel(name, connection);
+            var viewModel = new ChatViewModel(user, roomName, connection);
             var window = new ChatWindow()
             {
                 DataContext = viewModel
             };
+
+            viewModel.Window = window;
+
             window.Show();
         }
-        //public void OpenWindow<TViewModel>() where TViewModel : class
-        //{
-        //    var viewModel = _serviceProvider.GetService<TViewModel>();
 
-        //    if (viewModel == null)
-        //        return;
+        public void OpenMainWindow()
+        {
+            var viewModel = _serviceProvider.GetService<MainViewModel>();
+            var mainWindow = new MainWindow
+            {
+                DataContext = viewModel
+            };
 
-        //    var currentWindow = GetWindowByViewModel(viewModel);
+            if(viewModel != null)
+                viewModel.Window = mainWindow;
 
-        //}
-        //private Window GetWindowByViewModel(object viewModel)
-        //{
-        //    Window window = viewModel switch
-        //    {
-        //        MainViewModel => new MainWindow(),
-        //        ChatViewModel => new ChatWindow(),
-        //        _ => throw new ArgumentException($"Неизвестный viewModel: {viewModel.GetType().Name}")
-        //    };
-        //    window.DataContext = viewModel;
-
-        //    return window;
-        //}
+            mainWindow.Show();
+        }
     }
 }

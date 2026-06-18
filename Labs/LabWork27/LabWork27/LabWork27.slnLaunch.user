@@ -4,11 +4,13 @@
     "Projects": [
       {
         "Path": "LabWork27\\LabWork27.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": "https"
       },
       {
         "Path": "SignalRClientWpf\\SignalRClientWpf.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": "SignalRClientWpf"
       }
     ]
   }

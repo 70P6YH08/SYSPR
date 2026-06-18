@@ -8,20 +8,17 @@ namespace LabWork27
         public ConcurrentDictionary<string, string> ConnectionToRoom = new();
         public ConcurrentDictionary<string, string> ConnectionToUser = new();
 
-        public async Task SendMessageAsync(string name, string message)
+        public async Task SendMessageAsync(string message)
         {
             var connectionId = Context.ConnectionId;
 
-            if(ConnectionToRoom.TryGetValue(connectionId, out var room) && ConnectionToRoom.TryGetValue(connectionId, out var user))
-            {
-                await Clients.Group(room).SendAsync("Receive", user, message);
-            }
+            if(ConnectionToRoom.TryGetValue(connectionId, out var room) && ConnectionToUser.TryGetValue(connectionId, out var user))
+                await Clients.Group(room).SendAsync("ReceiveMessage", user, message);
 
             //await Clients.All.SendAsync("Receive", name, message);
-            //Console.WriteLine($"{name}: {message}");
         }
 
-        public async Task JoinRoom(string roomName, string userName)
+        public async Task JoinRoom(string userName, string roomName)
         {
             var connectionId = Context.ConnectionId;
 
@@ -29,11 +26,15 @@ namespace LabWork27
             ConnectionToUser[connectionId] = userName;
 
             await Groups.AddToGroupAsync(connectionId, roomName);
+            await Clients.Group(roomName).SendAsync("ReceiveMessage", "Подключение", $"{userName} ПРИСОЕДИНИЛСЯ к комнате {roomName}.");
         }
 
-        public override Task OnDisconnectedAsync(Exception? exception)
+        public override async Task OnDisconnectedAsync(Exception? exception)
         {
-            await Groups.RemoveFromGroupAsync(connectionId, room);
+            var connectionId = Context.ConnectionId;
+            if(ConnectionToRoom.TryRemove(connectionId, out var room))
+                await Groups.RemoveFromGroupAsync(connectionId, room);
+            //ConnectionToUser.TryRemove(connectionId, out var user);
         }
     }
 }

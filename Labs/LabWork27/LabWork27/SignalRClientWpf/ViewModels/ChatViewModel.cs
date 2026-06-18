@@ -1,6 +1,9 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Microsoft.AspNetCore.SignalR.Client;
+using SignalRClientWpf.Models;
+using SignalRClientWpf.Services;
+using SignalRClientWpf.Views;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -11,44 +14,61 @@ namespace SignalRClientWpf.ViewModels
 {
     public partial class ChatViewModel : ViewModelBase
     {
+        private readonly HubConnection _connection;
+        public Window Window { get; set; }
+
         [ObservableProperty]
-        private string _name;
+        private string _user;
 
         [ObservableProperty]
         private string _message;
 
         [ObservableProperty]
-        private ObservableCollection<string> _chat = new() {"====== УСПЕШНОЕ ПОДКЛЮЧЕНИЕ ======"};
+        private string _roomName;
 
-        private readonly HubConnection _connection;
-        public ChatViewModel(string name, HubConnection connection)
+        [ObservableProperty]
+        private ObservableCollection<Message> _chat = new();
+
+        public ChatViewModel(string user, string roomName, HubConnection connection)
         {
-            Name = name;
+            User = user;
+            RoomName = roomName;
             _connection = connection;
 
-            _connection.On<string>("ReceiveMessage", (message) =>
+            _connection.On<string, string>("ReceiveMessage", (user, message) =>
             {
-                Chat.Add(message);
+                Application.Current.Dispatcher.Invoke(() =>
+                {
+                    Chat.Add(new Message
+                    {
+                        User = user,
+                        UserMessage = message
+                    });
+                });
             });
         }
 
         [RelayCommand]
         public async Task SendMessageAsync()
         {
+            if (String.IsNullOrWhiteSpace(Message))
+            {
+                MessageBox.Show("Нельзя оправить пустое сообщение!",
+                    "Внимание",
+                    MessageBoxButton.OK,
+                    MessageBoxImage.Warning);
+                return;
+            }
+
             try
             {
-
-                if (String.IsNullOrWhiteSpace(Message))
+                await _connection.InvokeAsync("SendMessageAsync", Message);
+                Chat.Add(new Message
                 {
-                    MessageBox.Show("Нельзя оправить пустое сообщение!",
-                        "Внимание",
-                        MessageBoxButton.OK,
-                        MessageBoxImage.Warning);
-                    return;
-                }
-
-                await _connection.InvokeAsync("SendMessageAsync", Name, Message);
-                Chat.Add($"Вы: {Message}");
+                    User = User,
+                    UserMessage = Message
+                });
+                Message = string.Empty;
             }
             catch(Exception ex)
             {
@@ -70,6 +90,10 @@ namespace SignalRClientWpf.ViewModels
                 return;
 
             await _connection.StopAsync();
+            Application.Current.Dispatcher.Invoke(() =>
+            {
+                Window?.Close();
+            });
         }
     }
 }

@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4078AB7-FC72-D554-CC37-3AFB5E27DB91}|SignalRClientWpf\\SignalRClientWpf.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\labs\\labwork27\\labwork27\\signalrclientwpf\\services\\windowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4078AB7-FC72-D554-CC37-3AFB5E27DB91}|SignalRClientWpf\\SignalRClientWpf.csproj|solutionrelative:signalrclientwpf\\services\\windowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7413A41F-20AD-323C-2516-A881FF7CCF57}|LabWork27\\LabWork27.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\labs\\labwork27\\labwork27\\labwork27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7413A41F-20AD-323C-2516-A881FF7CCF57}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4078AB7-FC72-D554-CC37-3AFB5E27DB91}|SignalRClientWpf\\SignalRClientWpf.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\labs\\labwork27\\labwork27\\signalrclientwpf\\viewmodels\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4078AB7-FC72-D554-CC37-3AFB5E27DB91}|SignalRClientWpf\\SignalRClientWpf.csproj|solutionrelative:signalrclientwpf\\viewmodels\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7413A41F-20AD-323C-2516-A881FF7CCF57}|LabWork27\\LabWork27.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\labs\\labwork27\\labwork27\\labwork27\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7413A41F-20AD-323C-2516-A881FF7CCF57}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4078AB7-FC72-D554-CC37-3AFB5E27DB91}|SignalRClientWpf\\SignalRClientWpf.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\labs\\labwork27\\labwork27\\signalrclientwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4078AB7-FC72-D554-CC37-3AFB5E27DB91}|SignalRClientWpf\\SignalRClientWpf.csproj|solutionrelative:signalrclientwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,40 +51,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WindowService.cs",
-              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\Services\\WindowService.cs",
-              "RelativeDocumentMoniker": "SignalRClientWpf\\Services\\WindowService.cs",
-              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\Services\\WindowService.cs",
-              "RelativeToolTip": "SignalRClientWpf\\Services\\WindowService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\LabWork27\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork27\\Program.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\LabWork27\\Program.cs",
+              "RelativeToolTip": "LabWork27\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T09:53:42.145Z",
+              "WhenOpened": "2026-06-18T19:41:03.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ChatViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\ViewModels\\ChatViewModel.cs",
-              "RelativeDocumentMoniker": "SignalRClientWpf\\ViewModels\\ChatViewModel.cs",
-              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\ViewModels\\ChatViewModel.cs",
-              "RelativeToolTip": "SignalRClientWpf\\ViewModels\\ChatViewModel.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowCgAAAA3AAAAAAAAAA==",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SignalRClientWpf\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\App.xaml.cs",
+              "RelativeToolTip": "SignalRClientWpf\\App.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T21:55:16.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChatHub.cs",
-              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\LabWork27\\ChatHub.cs",
-              "RelativeDocumentMoniker": "LabWork27\\ChatHub.cs",
-              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\LabWork27\\ChatHub.cs",
-              "RelativeToolTip": "LabWork27\\ChatHub.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T21:46:32.281Z",
+              "WhenOpened": "2026-06-18T19:40:42.124Z",
               "EditorCaption": ""
             }
           ]
