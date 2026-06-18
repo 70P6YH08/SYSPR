@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "LabWork27\\LabWork27.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SignalRClientWpf\\SignalRClientWpf.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

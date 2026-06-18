@@ -1,0 +1,6 @@
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork27\LabWork27\SignalRClient\obj\Debug\net10.0\SignalRClient.csproj.AssemblyReference.cache
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork27\LabWork27\SignalRClient\obj\Debug\net10.0\SignalRClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork27\LabWork27\SignalRClient\obj\Debug\net10.0\SignalRClient.AssemblyInfoInputs.cache
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork27\LabWork27\SignalRClient\obj\Debug\net10.0\SignalRClient.AssemblyInfo.cs
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork27\LabWork27\SignalRClient\obj\Debug\net10.0\SignalRClient.csproj.CoreCompileInputs.cache
+C:\Users\gorbu\Desktop\All\collage\3 year 2 semestr\SYSPR\Labs\LabWork27\LabWork27\SignalRClient\obj\Debug\net10.0\SignalRClient.sourcelink.json

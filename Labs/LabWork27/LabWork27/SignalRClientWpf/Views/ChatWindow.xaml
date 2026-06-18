@@ -1,0 +1,36 @@
+﻿<Window x:Class="SignalRClientWpf.Views.ChatWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SignalRClientWpf.Views"
+        mc:Ignorable="d"
+        Title="ChatWindow" Height="450" Width="800" Background="LightSalmon">
+    <DockPanel HorizontalAlignment="Center">
+        <Grid Margin="0 10">
+            <ListBox Background="DarkSalmon" Width="300"
+                     BorderBrush="Brown" BorderThickness="2" VerticalAlignment="Stretch"
+                     ItemsSource="{Binding Chat}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding}"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </Grid>
+        <StackPanel VerticalAlignment="Center" Margin="50 0 0 0">
+            <Border Width="200">
+                <TextBlock Text="Введите сообщение" FontSize="20" FontFamily="Impact" HorizontalAlignment="Center"/>
+            </Border>
+            <Border BorderBrush="Brown" BorderThickness="2" Margin="0 5 0 0 ">
+                <TextBox Text="{Binding Message, UpdateSourceTrigger=PropertyChanged}" FontSize="20" FontFamily="Impact"/>
+            </Border>
+            <Border BorderBrush="Brown" BorderThickness="2" Margin="0 5 0 0 ">
+                <Button Command="{Binding SendMessageCommand}" Background="Salmon" FontSize="20" FontFamily="Impact" Content="Отправить"/>
+            </Border>
+            <Border BorderBrush="Brown" BorderThickness="2" Margin="0 5 0 0 ">
+                <Button Command="{Binding DisconnectCommand}" Background="Salmon" FontSize="20" FontFamily="Impact" Content="Отключиться"/>
+            </Border>
+        </StackPanel>
+    </DockPanel>
+</Window>
