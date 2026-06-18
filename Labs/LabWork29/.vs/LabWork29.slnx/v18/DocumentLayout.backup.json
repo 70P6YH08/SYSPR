@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A27CF5C4-9AB7-2FD4-D6FA-CC463B52F93B}|LabWork29\\LabWork29.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork29\\labwork29\\logarchiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27CF5C4-9AB7-2FD4-D6FA-CC463B52F93B}|LabWork29\\LabWork29.csproj|solutionrelative:labwork29\\logarchiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27CF5C4-9AB7-2FD4-D6FA-CC463B52F93B}|LabWork29\\LabWork29.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork29\\labwork29\\filewathcerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27CF5C4-9AB7-2FD4-D6FA-CC463B52F93B}|LabWork29\\LabWork29.csproj|solutionrelative:labwork29\\filewathcerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27CF5C4-9AB7-2FD4-D6FA-CC463B52F93B}|LabWork29\\LabWork29.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork29\\labwork29\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A27CF5C4-9AB7-2FD4-D6FA-CC463B52F93B}|LabWork29\\LabWork29.csproj|solutionrelative:labwork29\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27CF5C4-9AB7-2FD4-D6FA-CC463B52F93B}|LabWork29\\LabWork29.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork29\\labwork29\\logsfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A27CF5C4-9AB7-2FD4-D6FA-CC463B52F93B}|LabWork29\\LabWork29.csproj|solutionrelative:labwork29\\logsfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogArchiveService.cs",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork29\\LabWork29\\LogArchiveService.cs",
+              "RelativeDocumentMoniker": "LabWork29\\LogArchiveService.cs",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork29\\LabWork29\\LogArchiveService.cs*",
+              "RelativeToolTip": "LabWork29\\LogArchiveService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T13:08:13.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "logsFile.txt",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork29\\LabWork29\\logsFile.txt",
+              "RelativeDocumentMoniker": "LabWork29\\logsFile.txt",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork29\\LabWork29\\logsFile.txt",
+              "RelativeToolTip": "LabWork29\\logsFile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-18T13:10:54.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork29\\LabWork29\\appsettings.json",
+              "RelativeDocumentMoniker": "LabWork29\\appsettings.json",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork29\\LabWork29\\appsettings.json",
+              "RelativeToolTip": "LabWork29\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-18T10:23:50.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileWathcerService.cs",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork29\\LabWork29\\FileWathcerService.cs",
+              "RelativeDocumentMoniker": "LabWork29\\FileWathcerService.cs",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork29\\LabWork29\\FileWathcerService.cs",
+              "RelativeToolTip": "LabWork29\\FileWathcerService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T09:51:48.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

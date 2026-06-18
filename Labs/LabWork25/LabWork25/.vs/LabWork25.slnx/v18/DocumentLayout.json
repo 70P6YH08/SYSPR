@@ -3,15 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork25\\LabWork25\\",
   "Documents": [
     {
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{EF522562-530A-75EE-88C7-ABB8B5710D43}|LabWork25\\LabWork25.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork25\\labwork25\\labwork25\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-      "AbsoluteMoniker": "D:0:0:{EF522562-530A-75EE-88C7-ABB8B5710D43}|LabWork25\\LabWork25.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\labs\\labwork25\\labwork25\\labwork25\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EF522562-530A-75EE-88C7-ABB8B5710D43}|LabWork25\\LabWork25.csproj|solutionrelative:labwork25\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF522562-530A-75EE-88C7-ABB8B5710D43}|LabWork25\\LabWork25.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3 year 2 semestr\\syspr\\labs\\labwork25\\labwork25\\labwork25\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 28c4a4b03c32ae6c9af878343a1e9828cb09250e
       "RelativeMoniker": "D:0:0:{EF522562-530A-75EE-88C7-ABB8B5710D43}|LabWork25\\LabWork25.csproj|solutionrelative:labwork25\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 257,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,45 +42,24 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "CustomButton.cs",
               "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork25\\LabWork25\\LabWork25\\CustomButton.cs",
               "RelativeDocumentMoniker": "LabWork25\\CustomButton.cs",
               "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork25\\LabWork25\\LabWork25\\CustomButton.cs",
               "RelativeToolTip": "LabWork25\\CustomButton.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwBIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T16:30:22.873Z",
+              "WhenOpened": "2026-06-17T08:09:08.91Z",
               "EditorCaption": ""
-=======
-              "DocumentIndex": 1,
-              "Title": "CustomButton.cs",
-              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork25\\LabWork25\\LabWork25\\CustomButton.cs",
-              "RelativeDocumentMoniker": "LabWork25\\CustomButton.cs",
-              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork25\\LabWork25\\LabWork25\\CustomButton.cs",
-              "RelativeToolTip": "LabWork25\\CustomButton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T16:30:22.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork25\\LabWork25\\LabWork25\\Views\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "LabWork25\\Views\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork25\\LabWork25\\LabWork25\\Views\\MainWindow.xaml",
-              "RelativeToolTip": "LabWork25\\Views\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-28T16:55:53.909Z",
-              "EditorCaption": ""
->>>>>>> 28c4a4b03c32ae6c9af878343a1e9828cb09250e
             }
           ]
         },
