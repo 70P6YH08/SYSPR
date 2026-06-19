@@ -1,0 +1,15 @@
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork30\LabWork30Console\bin\Debug\net10.0\LabWork30Console.exe
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork30\LabWork30Console\bin\Debug\net10.0\LabWork30Console.deps.json
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork30\LabWork30Console\bin\Debug\net10.0\LabWork30Console.runtimeconfig.json
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork30\LabWork30Console\bin\Debug\net10.0\LabWork30Console.dll
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork30\LabWork30Console\bin\Debug\net10.0\LabWork30Console.pdb
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork30\LabWork30Console\obj\Debug\net10.0\LabWork30Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork30\LabWork30Console\obj\Debug\net10.0\LabWork30Console.AssemblyInfoInputs.cache
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork30\LabWork30Console\obj\Debug\net10.0\LabWork30Console.AssemblyInfo.cs
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork30\LabWork30Console\obj\Debug\net10.0\LabWork30Console.csproj.CoreCompileInputs.cache
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork30\LabWork30Console\obj\Debug\net10.0\LabWork30Console.sourcelink.json
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork30\LabWork30Console\obj\Debug\net10.0\LabWork30Console.dll
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork30\LabWork30Console\obj\Debug\net10.0\refint\LabWork30Console.dll
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork30\LabWork30Console\obj\Debug\net10.0\LabWork30Console.pdb
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork30\LabWork30Console\obj\Debug\net10.0\LabWork30Console.genruntimeconfig.cache
+C:\Users\-221\Students\ispp31\SYSPR\Labs\LabWork30\LabWork30Console\obj\Debug\net10.0\ref\LabWork30Console.dll

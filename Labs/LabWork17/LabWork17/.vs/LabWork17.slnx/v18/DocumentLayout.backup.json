@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year2semestr\\SYSPR\\Labs\\LabWork17\\LabWork17\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork17\\labwork17\\labwork17\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 268,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,7 +42,28 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork17\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabWork17\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAcwMoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T20:57:29.503Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -45,6 +71,10 @@
           "DockedWidth": 132,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"

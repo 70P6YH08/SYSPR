@@ -17,16 +17,9 @@ calc:
 
 main:
     mov ebp, esp
-    PRINT_STRING "Enter a: "
     GET_DEC 4, eax
-    NEWLINE
-    PRINT_STRING "Enter b: "
     GET_DEC 4, ebx
-    NEWLINE
-    PRINT_STRING "Enter c: "
     GET_DEC 4, ecx
-    NEWLINE
-    PRINT_STRING "Enter d: "
     GET_DEC 4, edx
     NEWLINE
     push edx

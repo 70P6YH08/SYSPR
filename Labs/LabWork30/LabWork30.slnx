@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LabWork30Console/LabWork30Console.csproj" />
+  <Project Path="LabWork30Library/LabWork30Library.vcxproj" />
+</Solution>

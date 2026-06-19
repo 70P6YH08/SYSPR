@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\SignalRClientWpf.csproj": {}
+    "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\SignalRClientWpf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\SignalRClientWpf.csproj": {
+    "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\SignalRClientWpf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\SignalRClientWpf.csproj",
+        "projectUniqueName": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\SignalRClientWpf.csproj",
         "projectName": "SignalRClientWpf",
-        "projectPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\SignalRClientWpf.csproj",
-        "packagesPath": "C:\\Users\\gorbu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\obj\\",
+        "projectPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\SignalRClientWpf.csproj",
+        "packagesPath": "C:\\NugetCache\\Packages",
+        "outputPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork27\\LabWork27\\SignalRClientWpf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gorbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\221\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -80,7 +81,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

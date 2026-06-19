@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8692B08-579B-4B5C-8278-54B01C78B390}|LabWork30Console\\LabWork30Console.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork30\\labwork30console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8692B08-579B-4B5C-8278-54B01C78B390}|LabWork30Console\\LabWork30Console.csproj|solutionrelative:labwork30console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8692B08-579B-4B5C-8278-54B01C78B390}|LabWork30Console\\LabWork30Console.csproj|c:\\users\\-221\\students\\ispp31\\syspr\\labs\\labwork30\\labwork30console\\libraryimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8692B08-579B-4B5C-8278-54B01C78B390}|LabWork30Console\\LabWork30Console.csproj|solutionrelative:labwork30console\\libraryimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84345C2-1140-495C-BCA3-C58678B8C4A2}|LabWork30Library\\LabWork30Library.vcxproj|C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork30\\LabWork30Library\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E84345C2-1140-495C-BCA3-C58678B8C4A2}|LabWork30Library\\LabWork30Library.vcxproj|solutionrelative:LabWork30Library\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84345C2-1140-495C-BCA3-C58678B8C4A2}|LabWork30Library\\LabWork30Library.vcxproj|C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork30\\LabWork30Library\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E84345C2-1140-495C-BCA3-C58678B8C4A2}|LabWork30Library\\LabWork30Library.vcxproj|solutionrelative:LabWork30Library\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork30\\LabWork30Console\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork30Console\\Program.cs",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork30\\LabWork30Console\\Program.cs",
+              "RelativeToolTip": "LabWork30Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:09:06.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryImport.cs",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork30\\LabWork30Console\\LibraryImport.cs",
+              "RelativeDocumentMoniker": "LabWork30Console\\LibraryImport.cs",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork30\\LabWork30Console\\LibraryImport.cs",
+              "RelativeToolTip": "LabWork30Console\\LibraryImport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:09:02.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "functions.h",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork30\\LabWork30Library\\functions.h",
+              "RelativeDocumentMoniker": "LabWork30Library\\functions.h",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork30\\LabWork30Library\\functions.h",
+              "RelativeToolTip": "LabWork30Library\\functions.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-19T07:08:56.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "functions.cpp",
+              "DocumentMoniker": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork30\\LabWork30Library\\functions.cpp",
+              "RelativeDocumentMoniker": "LabWork30Library\\functions.cpp",
+              "ToolTip": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork30\\LabWork30Library\\functions.cpp",
+              "RelativeToolTip": "LabWork30Library\\functions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-19T07:08:47.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

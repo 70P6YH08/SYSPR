@@ -10,8 +10,6 @@ main:
     mov ebp, esp; for correct debugging
 
 input_n:
-    PRINT_STRING "Count equals zero!"
-    NEWLINE
     PRINT_STRING "Input count: "
     GET_DEC 4, [n]
     PRINT_DEC 4, [n]

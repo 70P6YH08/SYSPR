@@ -34,9 +34,9 @@ namespace LabWork29
                 File.Create(_logsFile);
 
             //"*/5 * * * *",
-            //"* 8 */1 * *",
-            //"* 18 * * FRI",
-            //"* * */10 * *",
+            //"0 8 */1 * *",
+            //"0 18 * * FRI",
+            //"0 0 */10 * *",
 
             string currentCronExpression = data["Schedule"] ?? "*/5 * * * *";
             var cronExpression = CronExpression.Parse(currentCronExpression);
@@ -61,10 +61,10 @@ namespace LabWork29
                 }
                 catch (Exception ex)
                 {
-                    _logger.LogError(ex.Message);
+                    _logger.LogError(ex.Message, "ОШИБКА РАБОТЫ LogArchiveService");
                 }
 
-                await Task.Delay(10000, stoppingToken);
+                //await Task.Delay(10000, stoppingToken);
             }
             await Task.CompletedTask;
         }

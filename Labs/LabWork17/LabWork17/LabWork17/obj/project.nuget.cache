@@ -1,20 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zzkTfikGU2Y=",
+  "dgSpecHash": "2SzhV7FMbVI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year2semestr\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\LabWork17.csproj",
+  "projectFilePath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\LabWork17.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gorbu\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512"
+    "C:\\NugetCache\\Packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Ошибка чтения файла кэша C:\\Users\\gorbu\\Desktop\\All\\collage\\3year2semestr\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\obj\\project.nuget.cache: '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year2semestr\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\LabWork17.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year2semestr\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\LabWork17.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

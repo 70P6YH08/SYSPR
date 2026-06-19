@@ -1,0 +1,15 @@
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\DllLection\DllLectionConsole\bin\Debug\net10.0\DllLectionConsole.exe
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\DllLection\DllLectionConsole\bin\Debug\net10.0\DllLectionConsole.deps.json
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\DllLection\DllLectionConsole\bin\Debug\net10.0\DllLectionConsole.runtimeconfig.json
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\DllLection\DllLectionConsole\bin\Debug\net10.0\DllLectionConsole.dll
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\DllLection\DllLectionConsole\bin\Debug\net10.0\DllLectionConsole.pdb
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\DllLection\DllLectionConsole\obj\Debug\net10.0\DllLectionConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\DllLection\DllLectionConsole\obj\Debug\net10.0\DllLectionConsole.AssemblyInfoInputs.cache
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\DllLection\DllLectionConsole\obj\Debug\net10.0\DllLectionConsole.AssemblyInfo.cs
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\DllLection\DllLectionConsole\obj\Debug\net10.0\DllLectionConsole.csproj.CoreCompileInputs.cache
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\DllLection\DllLectionConsole\obj\Debug\net10.0\DllLectionConsole.sourcelink.json
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\DllLection\DllLectionConsole\obj\Debug\net10.0\DllLectionConsole.dll
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\DllLection\DllLectionConsole\obj\Debug\net10.0\refint\DllLectionConsole.dll
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\DllLection\DllLectionConsole\obj\Debug\net10.0\DllLectionConsole.pdb
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\DllLection\DllLectionConsole\obj\Debug\net10.0\DllLectionConsole.genruntimeconfig.cache
+C:\Users\-221\Students\ispp31\SYSPR\Lecions\DllLection\DllLectionConsole\obj\Debug\net10.0\ref\DllLectionConsole.dll

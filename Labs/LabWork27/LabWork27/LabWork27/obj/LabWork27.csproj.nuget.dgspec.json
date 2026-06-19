@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\LabWork27\\LabWork27.csproj": {}
+    "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork27\\LabWork27\\LabWork27\\LabWork27.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\LabWork27\\LabWork27.csproj": {
+    "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork27\\LabWork27\\LabWork27\\LabWork27.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\LabWork27\\LabWork27.csproj",
+        "projectUniqueName": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork27\\LabWork27\\LabWork27\\LabWork27.csproj",
         "projectName": "LabWork27",
-        "projectPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\LabWork27\\LabWork27.csproj",
-        "packagesPath": "C:\\Users\\gorbu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3 year 2 semestr\\SYSPR\\Labs\\LabWork27\\LabWork27\\LabWork27\\obj\\",
+        "projectPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork27\\LabWork27\\LabWork27\\LabWork27.csproj",
+        "packagesPath": "C:\\NugetCache\\Packages",
+        "outputPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork27\\LabWork27\\LabWork27\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gorbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\221\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

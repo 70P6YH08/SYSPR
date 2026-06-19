@@ -70,23 +70,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gorbu\\.nuget\\packages\\": {},
+    "C:\\NugetCache\\Packages": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year2semestr\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\LabWork17.csproj",
+      "projectUniqueName": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\LabWork17.csproj",
       "projectName": "LabWork17",
-      "projectPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year2semestr\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\LabWork17.csproj",
-      "packagesPath": "C:\\Users\\gorbu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year2semestr\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\obj\\",
+      "projectPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\LabWork17.csproj",
+      "packagesPath": "C:\\NugetCache\\Packages",
+      "outputPath": "C:\\Users\\-221\\Students\\ispp31\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gorbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\221\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -95,6 +95,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -145,7 +146,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -438,13 +439,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Ошибка чтения файла кэша C:\\Users\\gorbu\\Desktop\\All\\collage\\3year2semestr\\SYSPR\\Labs\\LabWork17\\LabWork17\\LabWork17\\obj\\project.nuget.cache: '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
-    }
-  ]
+  }
 }

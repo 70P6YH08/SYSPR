@@ -15,7 +15,7 @@ namespace LabWork29
             _logger = logger;
             _configuration = configuration;
 
-            var data = _configuration.GetSection("Logging:FileWatcherSettings");
+            var data = _configuration.GetSection("Logging:FileWatcher");
 
             _watchDir = data["WatchDir"] ?? Path.Combine(AppContext.BaseDirectory, "WatchFolder");
             _logsFile = data["LogsFile"] ?? Path.Combine(AppContext.BaseDirectory, "LogFolder", "watcher.log");
@@ -60,7 +60,7 @@ namespace LabWork29
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex.Message);
+                _logger.LogError(ex.Message, "ОШИБКА РАБОТЫ FileWatcherService");
             }
         }
 

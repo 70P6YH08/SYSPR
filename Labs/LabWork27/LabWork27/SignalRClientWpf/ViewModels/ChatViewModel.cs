@@ -63,11 +63,11 @@ namespace SignalRClientWpf.ViewModels
             try
             {
                 await _connection.InvokeAsync("SendMessageAsync", Message);
-                Chat.Add(new Message
-                {
-                    User = User,
-                    UserMessage = Message
-                });
+                //Chat.Add(new Message
+                //{
+                //    User = User,
+                //    UserMessage = Message
+                //});
                 Message = string.Empty;
             }
             catch(Exception ex)

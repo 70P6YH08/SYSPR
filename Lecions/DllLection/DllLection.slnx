@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DllLection/DllLection.vcxproj" Id="d05cb75c-5e1c-4eed-bcda-f6aaace3a8a5" />
+  <Project Path="DllLectionConsole/DllLectionConsole.csproj" />
+</Solution>

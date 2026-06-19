@@ -15,6 +15,7 @@ while_start:
     cmp ebx, eax
     jnl while_end
     PRINT_DEC 4, ebx
+    NEWLINE
     add ecx, 1
     jmp while_start
 while_end:
